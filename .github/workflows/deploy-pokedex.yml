@@ -1,0 +1,71 @@
+# .github/workflows/deploy-pokedex.yml
+#
+# Build the pokedex-app and deploy it to GitHub Pages.
+#
+# Prerequisites:
+#   1. Create a GitHub repo for the deployed site, e.g. "guolunhao/pokedex"
+#   2. Create a Personal Access Token (PAT) with "repo" scope
+#   3. Add the PAT as a repository secret named "DEPLOY_TOKEN" in THIS repo
+#   4. Enable GitHub Pages in the target repo:
+#      Settings → Pages → Source: "Deploy from a branch" → branch: "gh-pages" / (root)
+#
+# The deployed URL will be: https://guolunhao.github.io/pokedex/
+
+name: Deploy Pokedex to GitHub Pages
+
+on:
+  # Trigger on pushes to main branch that change pokedex-app/ or data/
+  push:
+    branches: [ main ]
+    paths:
+      - 'pokedex-app/**'
+      - 'data/**'
+  # Allow manual trigger
+  workflow_dispatch:
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./pokedex-app
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: pokedex-app/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Prepare static data (copy from ../data/)
+        run: node scripts/prepare-data.js
+
+      - name: Build
+        run: npm run build-only
+        env:
+          NODE_ENV: production
+
+      - name: Deploy to target repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # Personal Access Token with "repo" scope, stored as a repository secret
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          # Target repo (CHANGE THIS to match your actual repo name)
+          external_repository: guolunhao/pokedex
+          # Publish the build output
+          publish_dir: ./pokedex-app/dist
+          # Keep only the latest deployment
+          keep_files: false

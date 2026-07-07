@@ -1,0 +1,14 @@
+const fs = require('fs');
+const files = fs.readdirSync('./data/images/dream');
+console.log('Files starting with 745:');
+files.filter(f => f.startsWith('745')).forEach(f => console.log(' ', f));
+console.log('Files starting with 774:');
+files.filter(f => f.startsWith('774')).forEach(f => console.log(' ', f));
+console.log('Files starting with 778:');
+files.filter(f => f.startsWith('778')).forEach(f => console.log(' ', f));
+console.log('Files starting with 128:');
+files.filter(f => f.startsWith('128')).forEach(f => console.log(' ', f));
+console.log('Files starting with 413:');
+files.filter(f => f.startsWith('413')).forEach(f => console.log(' ', f));
+console.log('Files starting with 1024:');
+files.filter(f => f.startsWith('1024')).forEach(f => console.log(' ', f));

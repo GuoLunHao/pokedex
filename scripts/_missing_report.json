@@ -1,0 +1,7675 @@
+[
+  {
+    "id": "0001",
+    "name": "妙蛙种子",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0001-妙蛙种子.json"
+  },
+  {
+    "id": "0002",
+    "name": "妙蛙草",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0002-妙蛙草.json"
+  },
+  {
+    "id": "0003",
+    "name": "妙蛙花",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0003-妙蛙花.json"
+  },
+  {
+    "id": "0004",
+    "name": "小火龙",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0004-小火龙.json"
+  },
+  {
+    "id": "0006",
+    "name": "喷火龙",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2
+    ],
+    "file": "0006-喷火龙.json"
+  },
+  {
+    "id": "0007",
+    "name": "杰尼龟",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2
+    ],
+    "file": "0007-杰尼龟.json"
+  },
+  {
+    "id": "0008",
+    "name": "卡咪龟",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2
+    ],
+    "file": "0008-卡咪龟.json"
+  },
+  {
+    "id": "0009",
+    "name": "水箭龟",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1
+    ],
+    "file": "0009-水箭龟.json"
+  },
+  {
+    "id": "0010",
+    "name": "绿毛虫",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      1,
+      9
+    ],
+    "file": "0010-绿毛虫.json"
+  },
+  {
+    "id": "0011",
+    "name": "铁甲蛹",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0011-铁甲蛹.json"
+  },
+  {
+    "id": "0012",
+    "name": "巴大蝶",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0012-巴大蝶.json"
+  },
+  {
+    "id": "0013",
+    "name": "独角虫",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0013-独角虫.json"
+  },
+  {
+    "id": "0014",
+    "name": "铁壳蛹",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0014-铁壳蛹.json"
+  },
+  {
+    "id": "0015",
+    "name": "大针蜂",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0015-大针蜂.json"
+  },
+  {
+    "id": "0016",
+    "name": "波波",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0016-波波.json"
+  },
+  {
+    "id": "0017",
+    "name": "比比鸟",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0017-比比鸟.json"
+  },
+  {
+    "id": "0018",
+    "name": "大比鸟",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0018-大比鸟.json"
+  },
+  {
+    "id": "0019",
+    "name": "小拉达",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0019-小拉达.json"
+  },
+  {
+    "id": "0020",
+    "name": "拉达",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0020-拉达.json"
+  },
+  {
+    "id": "0021",
+    "name": "烈雀",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0021-烈雀.json"
+  },
+  {
+    "id": "0022",
+    "name": "大嘴雀",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0022-大嘴雀.json"
+  },
+  {
+    "id": "0024",
+    "name": "阿柏怪",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0024-阿柏怪.json"
+  },
+  {
+    "id": "0025",
+    "name": "皮卡丘",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0025-皮卡丘.json"
+  },
+  {
+    "id": "0026",
+    "name": "雷丘",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0026-雷丘.json"
+  },
+  {
+    "id": "0027",
+    "name": "穿山鼠",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0027-穿山鼠.json"
+  },
+  {
+    "id": "0028",
+    "name": "穿山王",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0028-穿山王.json"
+  },
+  {
+    "id": "0029",
+    "name": "尼多兰",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0029-尼多兰.json"
+  },
+  {
+    "id": "0030",
+    "name": "尼多娜",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      1,
+      2,
+      9
+    ],
+    "file": "0030-尼多娜.json"
+  },
+  {
+    "id": "0031",
+    "name": "尼多后",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0031-尼多后.json"
+  },
+  {
+    "id": "0032",
+    "name": "尼多朗",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0032-尼多朗.json"
+  },
+  {
+    "id": "0033",
+    "name": "尼多力诺",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0033-尼多力诺.json"
+  },
+  {
+    "id": "0034",
+    "name": "尼多王",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0034-尼多王.json"
+  },
+  {
+    "id": "0041",
+    "name": "超音蝠",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0041-超音蝠.json"
+  },
+  {
+    "id": "0042",
+    "name": "大嘴蝠",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0042-大嘴蝠.json"
+  },
+  {
+    "id": "0043",
+    "name": "走路草",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0043-走路草.json"
+  },
+  {
+    "id": "0044",
+    "name": "臭臭花",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0044-臭臭花.json"
+  },
+  {
+    "id": "0045",
+    "name": "霸王花",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0045-霸王花.json"
+  },
+  {
+    "id": "0046",
+    "name": "派拉斯",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0046-派拉斯.json"
+  },
+  {
+    "id": "0047",
+    "name": "派拉斯特",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0047-派拉斯特.json"
+  },
+  {
+    "id": "0056",
+    "name": "猴怪",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0056-猴怪.json"
+  },
+  {
+    "id": "0057",
+    "name": "火暴猴",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0057-火暴猴.json"
+  },
+  {
+    "id": "0058",
+    "name": "卡蒂狗",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0058-卡蒂狗.json"
+  },
+  {
+    "id": "0060",
+    "name": "蚊香蝌蚪",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0060-蚊香蝌蚪.json"
+  },
+  {
+    "id": "0063",
+    "name": "凯西",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0063-凯西.json"
+  },
+  {
+    "id": "0064",
+    "name": "勇基拉",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0064-勇基拉.json"
+  },
+  {
+    "id": "0065",
+    "name": "胡地",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0065-胡地.json"
+  },
+  {
+    "id": "0066",
+    "name": "腕力",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0066-腕力.json"
+  },
+  {
+    "id": "0067",
+    "name": "豪力",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0067-豪力.json"
+  },
+  {
+    "id": "0068",
+    "name": "怪力",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0068-怪力.json"
+  },
+  {
+    "id": "0071",
+    "name": "大食花",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0071-大食花.json"
+  },
+  {
+    "id": "0072",
+    "name": "玛瑙水母",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0072-玛瑙水母.json"
+  },
+  {
+    "id": "0074",
+    "name": "小拳石",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0074-小拳石.json"
+  },
+  {
+    "id": "0075",
+    "name": "隆隆石",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0075-隆隆石.json"
+  },
+  {
+    "id": "0076",
+    "name": "隆隆岩",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0076-隆隆岩.json"
+  },
+  {
+    "id": "0077",
+    "name": "小火马",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0077-小火马.json"
+  },
+  {
+    "id": "0078",
+    "name": "烈焰马",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0078-烈焰马.json"
+  },
+  {
+    "id": "0079",
+    "name": "呆呆兽",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0079-呆呆兽.json"
+  },
+  {
+    "id": "0080",
+    "name": "呆壳兽",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0080-呆壳兽.json"
+  },
+  {
+    "id": "0083",
+    "name": "大葱鸭",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0083-大葱鸭.json"
+  },
+  {
+    "id": "0091",
+    "name": "刺甲贝",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0091-刺甲贝.json"
+  },
+  {
+    "id": "0092",
+    "name": "鬼斯",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0092-鬼斯.json"
+  },
+  {
+    "id": "0093",
+    "name": "鬼斯通",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0093-鬼斯通.json"
+  },
+  {
+    "id": "0094",
+    "name": "耿鬼",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0094-耿鬼.json"
+  },
+  {
+    "id": "0095",
+    "name": "大岩蛇",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0095-大岩蛇.json"
+  },
+  {
+    "id": "0096",
+    "name": "催眠貘",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0096-催眠貘.json"
+  },
+  {
+    "id": "0097",
+    "name": "引梦貘人",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0097-引梦貘人.json"
+  },
+  {
+    "id": "0098",
+    "name": "大钳蟹",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0098-大钳蟹.json"
+  },
+  {
+    "id": "0099",
+    "name": "巨钳蟹",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0099-巨钳蟹.json"
+  },
+  {
+    "id": "0100",
+    "name": "霹雳电球",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0100-霹雳电球.json"
+  },
+  {
+    "id": "0104",
+    "name": "卡拉卡拉",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0104-卡拉卡拉.json"
+  },
+  {
+    "id": "0105",
+    "name": "嘎啦嘎啦",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0105-嘎啦嘎啦.json"
+  },
+  {
+    "id": "0106",
+    "name": "飞腿郎",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0106-飞腿郎.json"
+  },
+  {
+    "id": "0107",
+    "name": "快拳郎",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0107-快拳郎.json"
+  },
+  {
+    "id": "0108",
+    "name": "大舌头",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0108-大舌头.json"
+  },
+  {
+    "id": "0109",
+    "name": "瓦斯弹",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0109-瓦斯弹.json"
+  },
+  {
+    "id": "0110",
+    "name": "双弹瓦斯",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0110-双弹瓦斯.json"
+  },
+  {
+    "id": "0114",
+    "name": "蔓藤怪",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0114-蔓藤怪.json"
+  },
+  {
+    "id": "0115",
+    "name": "袋兽",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0115-袋兽.json"
+  },
+  {
+    "id": "0118",
+    "name": "角金鱼",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0118-角金鱼.json"
+  },
+  {
+    "id": "0119",
+    "name": "金鱼王",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0119-金鱼王.json"
+  },
+  {
+    "id": "0120",
+    "name": "海星星",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0120-海星星.json"
+  },
+  {
+    "id": "0121",
+    "name": "宝石海星",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0121-宝石海星.json"
+  },
+  {
+    "id": "0122",
+    "name": "魔墙人偶",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0122-魔墙人偶.json"
+  },
+  {
+    "id": "0123",
+    "name": "飞天螳螂",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0123-飞天螳螂.json"
+  },
+  {
+    "id": "0124",
+    "name": "迷唇姐",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "missingGens": [
+      7,
+      8,
+      9
+    ],
+    "file": "0124-迷唇姐.json"
+  },
+  {
+    "id": "0127",
+    "name": "凯罗斯",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      1,
+      2,
+      9
+    ],
+    "file": "0127-凯罗斯.json"
+  },
+  {
+    "id": "0128",
+    "name": "肯泰罗",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      1,
+      2,
+      9
+    ],
+    "file": "0128-肯泰罗.json"
+  },
+  {
+    "id": "0129",
+    "name": "鲤鱼王",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2
+    ],
+    "file": "0129-鲤鱼王.json"
+  },
+  {
+    "id": "0135",
+    "name": "雷伊布",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0135-雷伊布.json"
+  },
+  {
+    "id": "0138",
+    "name": "菊石兽",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0138-菊石兽.json"
+  },
+  {
+    "id": "0139",
+    "name": "多刺菊石兽",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0139-多刺菊石兽.json"
+  },
+  {
+    "id": "0140",
+    "name": "化石盔",
+    "debut": 1,
+    "existing": 8,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0140-化石盔.json"
+  },
+  {
+    "id": "0141",
+    "name": "镰刀盔",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0141-镰刀盔.json"
+  },
+  {
+    "id": "0142",
+    "name": "化石翼龙",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0142-化石翼龙.json"
+  },
+  {
+    "id": "0144",
+    "name": "急冻鸟",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0144-急冻鸟.json"
+  },
+  {
+    "id": "0145",
+    "name": "闪电鸟",
+    "debut": 1,
+    "existing": 7,
+    "expected": 9,
+    "existingGens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0145-闪电鸟.json"
+  },
+  {
+    "id": "0146",
+    "name": "火焰鸟",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0146-火焰鸟.json"
+  },
+  {
+    "id": "0147",
+    "name": "迷你龙",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0147-迷你龙.json"
+  },
+  {
+    "id": "0148",
+    "name": "哈克龙",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0148-哈克龙.json"
+  },
+  {
+    "id": "0149",
+    "name": "快龙",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0149-快龙.json"
+  },
+  {
+    "id": "0150",
+    "name": "超梦",
+    "debut": 1,
+    "existing": 6,
+    "expected": 9,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      1,
+      2,
+      3
+    ],
+    "file": "0150-超梦.json"
+  },
+  {
+    "id": "0165",
+    "name": "芭瓢虫",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0165-芭瓢虫.json"
+  },
+  {
+    "id": "0166",
+    "name": "安瓢虫",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0166-安瓢虫.json"
+  },
+  {
+    "id": "0169",
+    "name": "叉字蝠",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0169-叉字蝠.json"
+  },
+  {
+    "id": "0170",
+    "name": "灯笼鱼",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0170-灯笼鱼.json"
+  },
+  {
+    "id": "0175",
+    "name": "波克比",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0175-波克比.json"
+  },
+  {
+    "id": "0176",
+    "name": "波克基古",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0176-波克基古.json"
+  },
+  {
+    "id": "0177",
+    "name": "天然雀",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0177-天然雀.json"
+  },
+  {
+    "id": "0178",
+    "name": "天然鸟",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0178-天然鸟.json"
+  },
+  {
+    "id": "0182",
+    "name": "美丽花",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0182-美丽花.json"
+  },
+  {
+    "id": "0183",
+    "name": "玛力露",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0183-玛力露.json"
+  },
+  {
+    "id": "0184",
+    "name": "玛力露丽",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0184-玛力露丽.json"
+  },
+  {
+    "id": "0185",
+    "name": "树才怪",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0185-树才怪.json"
+  },
+  {
+    "id": "0195",
+    "name": "沼王",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0195-沼王.json"
+  },
+  {
+    "id": "0196",
+    "name": "太阳伊布",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      2,
+      3
+    ],
+    "file": "0196-太阳伊布.json"
+  },
+  {
+    "id": "0197",
+    "name": "月亮伊布",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      2,
+      3
+    ],
+    "file": "0197-月亮伊布.json"
+  },
+  {
+    "id": "0198",
+    "name": "黑暗鸦",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      2,
+      3
+    ],
+    "file": "0198-黑暗鸦.json"
+  },
+  {
+    "id": "0199",
+    "name": "呆呆王",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      2,
+      3
+    ],
+    "file": "0199-呆呆王.json"
+  },
+  {
+    "id": "0200",
+    "name": "梦妖",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      2,
+      3
+    ],
+    "file": "0200-梦妖.json"
+  },
+  {
+    "id": "0201",
+    "name": "未知图腾",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0201-未知图腾.json"
+  },
+  {
+    "id": "0202",
+    "name": "果然翁",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0202-果然翁.json"
+  },
+  {
+    "id": "0206",
+    "name": "土龙弟弟",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0206-土龙弟弟.json"
+  },
+  {
+    "id": "0207",
+    "name": "天蝎",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0207-天蝎.json"
+  },
+  {
+    "id": "0208",
+    "name": "大钢蛇",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0208-大钢蛇.json"
+  },
+  {
+    "id": "0209",
+    "name": "布鲁",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0209-布鲁.json"
+  },
+  {
+    "id": "0210",
+    "name": "布鲁皇",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0210-布鲁皇.json"
+  },
+  {
+    "id": "0213",
+    "name": "壶壶",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0213-壶壶.json"
+  },
+  {
+    "id": "0221",
+    "name": "长毛猪",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0221-长毛猪.json"
+  },
+  {
+    "id": "0222",
+    "name": "太阳珊瑚",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0222-太阳珊瑚.json"
+  },
+  {
+    "id": "0223",
+    "name": "铁炮鱼",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0223-铁炮鱼.json"
+  },
+  {
+    "id": "0224",
+    "name": "章鱼桶",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0224-章鱼桶.json"
+  },
+  {
+    "id": "0225",
+    "name": "信使鸟",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0225-信使鸟.json"
+  },
+  {
+    "id": "0226",
+    "name": "巨翅飞鱼",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0226-巨翅飞鱼.json"
+  },
+  {
+    "id": "0238",
+    "name": "迷唇娃",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0238-迷唇娃.json"
+  },
+  {
+    "id": "0241",
+    "name": "大奶罐",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0241-大奶罐.json"
+  },
+  {
+    "id": "0248",
+    "name": "班基拉斯",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0248-班基拉斯.json"
+  },
+  {
+    "id": "0249",
+    "name": "洛奇亚",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0249-洛奇亚.json"
+  },
+  {
+    "id": "0250",
+    "name": "凤王",
+    "debut": 2,
+    "existing": 6,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0250-凤王.json"
+  },
+  {
+    "id": "0251",
+    "name": "时拉比",
+    "debut": 2,
+    "existing": 7,
+    "expected": 8,
+    "existingGens": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0251-时拉比.json"
+  },
+  {
+    "id": "0263",
+    "name": "蛇纹熊",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0263-蛇纹熊.json"
+  },
+  {
+    "id": "0264",
+    "name": "直冲熊",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0264-直冲熊.json"
+  },
+  {
+    "id": "0265",
+    "name": "刺尾虫",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0265-刺尾虫.json"
+  },
+  {
+    "id": "0266",
+    "name": "甲壳茧",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0266-甲壳茧.json"
+  },
+  {
+    "id": "0267",
+    "name": "狩猎凤蝶",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0267-狩猎凤蝶.json"
+  },
+  {
+    "id": "0268",
+    "name": "盾甲茧",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0268-盾甲茧.json"
+  },
+  {
+    "id": "0269",
+    "name": "毒粉蛾",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0269-毒粉蛾.json"
+  },
+  {
+    "id": "0276",
+    "name": "傲骨燕",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0276-傲骨燕.json"
+  },
+  {
+    "id": "0277",
+    "name": "大王燕",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0277-大王燕.json"
+  },
+  {
+    "id": "0281",
+    "name": "奇鲁莉安",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0281-奇鲁莉安.json"
+  },
+  {
+    "id": "0282",
+    "name": "沙奈朵",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0282-沙奈朵.json"
+  },
+  {
+    "id": "0284",
+    "name": "雨翅蛾",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0284-雨翅蛾.json"
+  },
+  {
+    "id": "0290",
+    "name": "土居忍士",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0290-土居忍士.json"
+  },
+  {
+    "id": "0291",
+    "name": "铁面忍者",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0291-铁面忍者.json"
+  },
+  {
+    "id": "0292",
+    "name": "脱壳忍者",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0292-脱壳忍者.json"
+  },
+  {
+    "id": "0293",
+    "name": "咕妞妞",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0293-咕妞妞.json"
+  },
+  {
+    "id": "0294",
+    "name": "吼爆弹",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0294-吼爆弹.json"
+  },
+  {
+    "id": "0295",
+    "name": "爆音怪",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0295-爆音怪.json"
+  },
+  {
+    "id": "0300",
+    "name": "向尾喵",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0300-向尾喵.json"
+  },
+  {
+    "id": "0301",
+    "name": "优雅猫",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0301-优雅猫.json"
+  },
+  {
+    "id": "0303",
+    "name": "大嘴娃",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0303-大嘴娃.json"
+  },
+  {
+    "id": "0304",
+    "name": "可可多拉",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0304-可可多拉.json"
+  },
+  {
+    "id": "0305",
+    "name": "可多拉",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0305-可多拉.json"
+  },
+  {
+    "id": "0306",
+    "name": "波士可多拉",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0306-波士可多拉.json"
+  },
+  {
+    "id": "0309",
+    "name": "落雷兽",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0309-落雷兽.json"
+  },
+  {
+    "id": "0310",
+    "name": "雷电兽",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0310-雷电兽.json"
+  },
+  {
+    "id": "0315",
+    "name": "毒蔷薇",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0315-毒蔷薇.json"
+  },
+  {
+    "id": "0318",
+    "name": "利牙鱼",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0318-利牙鱼.json"
+  },
+  {
+    "id": "0319",
+    "name": "巨牙鲨",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0319-巨牙鲨.json"
+  },
+  {
+    "id": "0320",
+    "name": "吼吼鲸",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0320-吼吼鲸.json"
+  },
+  {
+    "id": "0321",
+    "name": "吼鲸王",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0321-吼鲸王.json"
+  },
+  {
+    "id": "0324",
+    "name": "煤炭龟",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0324-煤炭龟.json"
+  },
+  {
+    "id": "0325",
+    "name": "跳跳猪",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0325-跳跳猪.json"
+  },
+  {
+    "id": "0327",
+    "name": "晃晃斑",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0327-晃晃斑.json"
+  },
+  {
+    "id": "0330",
+    "name": "沙漠蜻蜓",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0330-沙漠蜻蜓.json"
+  },
+  {
+    "id": "0337",
+    "name": "月石",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0337-月石.json"
+  },
+  {
+    "id": "0338",
+    "name": "太阳岩",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0338-太阳岩.json"
+  },
+  {
+    "id": "0343",
+    "name": "天秤偶",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0343-天秤偶.json"
+  },
+  {
+    "id": "0344",
+    "name": "念力土偶",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0344-念力土偶.json"
+  },
+  {
+    "id": "0345",
+    "name": "触手百合",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0345-触手百合.json"
+  },
+  {
+    "id": "0346",
+    "name": "摇篮百合",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0346-摇篮百合.json"
+  },
+  {
+    "id": "0347",
+    "name": "太古羽虫",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0347-太古羽虫.json"
+  },
+  {
+    "id": "0348",
+    "name": "太古盔甲",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0348-太古盔甲.json"
+  },
+  {
+    "id": "0351",
+    "name": "飘浮泡泡",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0351-飘浮泡泡.json"
+  },
+  {
+    "id": "0352",
+    "name": "变隐龙",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0352-变隐龙.json"
+  },
+  {
+    "id": "0359",
+    "name": "阿勃梭鲁",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0359-阿勃梭鲁.json"
+  },
+  {
+    "id": "0360",
+    "name": "小果然",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0360-小果然.json"
+  },
+  {
+    "id": "0363",
+    "name": "海豹球",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0363-海豹球.json"
+  },
+  {
+    "id": "0364",
+    "name": "海魔狮",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0364-海魔狮.json"
+  },
+  {
+    "id": "0365",
+    "name": "帝牙海狮",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0365-帝牙海狮.json"
+  },
+  {
+    "id": "0366",
+    "name": "珍珠贝",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0366-珍珠贝.json"
+  },
+  {
+    "id": "0367",
+    "name": "猎斑鱼",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0367-猎斑鱼.json"
+  },
+  {
+    "id": "0368",
+    "name": "樱花鱼",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0368-樱花鱼.json"
+  },
+  {
+    "id": "0369",
+    "name": "古空棘鱼",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0369-古空棘鱼.json"
+  },
+  {
+    "id": "0381",
+    "name": "拉帝欧斯",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0381-拉帝欧斯.json"
+  },
+  {
+    "id": "0382",
+    "name": "盖欧卡",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0382-盖欧卡.json"
+  },
+  {
+    "id": "0383",
+    "name": "固拉多",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0383-固拉多.json"
+  },
+  {
+    "id": "0384",
+    "name": "烈空坐",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0384-烈空坐.json"
+  },
+  {
+    "id": "0385",
+    "name": "基拉祈",
+    "debut": 3,
+    "existing": 6,
+    "expected": 7,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missingGens": [
+      3
+    ],
+    "file": "0385-基拉祈.json"
+  },
+  {
+    "id": "0399",
+    "name": "大牙狸",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0399-大牙狸.json"
+  },
+  {
+    "id": "0400",
+    "name": "大尾狸",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0400-大尾狸.json"
+  },
+  {
+    "id": "0406",
+    "name": "含羞苞",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0406-含羞苞.json"
+  },
+  {
+    "id": "0407",
+    "name": "罗丝雷朵",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0407-罗丝雷朵.json"
+  },
+  {
+    "id": "0412",
+    "name": "结草儿",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0412-结草儿.json"
+  },
+  {
+    "id": "0413",
+    "name": "结草贵妇",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0413-结草贵妇.json"
+  },
+  {
+    "id": "0414",
+    "name": "绅士蛾",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0414-绅士蛾.json"
+  },
+  {
+    "id": "0420",
+    "name": "樱花宝",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0420-樱花宝.json"
+  },
+  {
+    "id": "0421",
+    "name": "樱花儿",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0421-樱花儿.json"
+  },
+  {
+    "id": "0427",
+    "name": "卷卷耳",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0427-卷卷耳.json"
+  },
+  {
+    "id": "0428",
+    "name": "长耳兔",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0428-长耳兔.json"
+  },
+  {
+    "id": "0431",
+    "name": "魅力喵",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0431-魅力喵.json"
+  },
+  {
+    "id": "0432",
+    "name": "东施喵",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0432-东施喵.json"
+  },
+  {
+    "id": "0439",
+    "name": "魔尼尼",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0439-魔尼尼.json"
+  },
+  {
+    "id": "0441",
+    "name": "聒噪鸟",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0441-聒噪鸟.json"
+  },
+  {
+    "id": "0451",
+    "name": "钳尾蝎",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0451-钳尾蝎.json"
+  },
+  {
+    "id": "0452",
+    "name": "龙王蝎",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0452-龙王蝎.json"
+  },
+  {
+    "id": "0455",
+    "name": "尖牙笼",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0455-尖牙笼.json"
+  },
+  {
+    "id": "0458",
+    "name": "小球飞鱼",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0458-小球飞鱼.json"
+  },
+  {
+    "id": "0463",
+    "name": "大舌舔",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0463-大舌舔.json"
+  },
+  {
+    "id": "0465",
+    "name": "巨蔓藤",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0465-巨蔓藤.json"
+  },
+  {
+    "id": "0468",
+    "name": "波克基斯",
+    "debut": 4,
+    "existing": 5,
+    "expected": 6,
+    "existingGens": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0468-波克基斯.json"
+  },
+  {
+    "id": "0494",
+    "name": "比克提尼",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0494-比克提尼.json"
+  },
+  {
+    "id": "0495",
+    "name": "藤藤蛇",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0495-藤藤蛇.json"
+  },
+  {
+    "id": "0496",
+    "name": "青藤蛇",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0496-青藤蛇.json"
+  },
+  {
+    "id": "0497",
+    "name": "君主蛇",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0497-君主蛇.json"
+  },
+  {
+    "id": "0498",
+    "name": "暖暖猪",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0498-暖暖猪.json"
+  },
+  {
+    "id": "0499",
+    "name": "炒炒猪",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0499-炒炒猪.json"
+  },
+  {
+    "id": "0500",
+    "name": "炎武王",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0500-炎武王.json"
+  },
+  {
+    "id": "0504",
+    "name": "探探鼠",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0504-探探鼠.json"
+  },
+  {
+    "id": "0505",
+    "name": "步哨鼠",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0505-步哨鼠.json"
+  },
+  {
+    "id": "0506",
+    "name": "小约克",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0506-小约克.json"
+  },
+  {
+    "id": "0507",
+    "name": "哈约克",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0507-哈约克.json"
+  },
+  {
+    "id": "0508",
+    "name": "长毛狗",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0508-长毛狗.json"
+  },
+  {
+    "id": "0509",
+    "name": "扒手猫",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0509-扒手猫.json"
+  },
+  {
+    "id": "0510",
+    "name": "酷豹",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0510-酷豹.json"
+  },
+  {
+    "id": "0511",
+    "name": "花椰猴",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0511-花椰猴.json"
+  },
+  {
+    "id": "0512",
+    "name": "花椰猿",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0512-花椰猿.json"
+  },
+  {
+    "id": "0513",
+    "name": "爆香猴",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0513-爆香猴.json"
+  },
+  {
+    "id": "0514",
+    "name": "爆香猿",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0514-爆香猿.json"
+  },
+  {
+    "id": "0515",
+    "name": "冷水猴",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0515-冷水猴.json"
+  },
+  {
+    "id": "0516",
+    "name": "冷水猿",
+    "debut": 5,
+    "existing": 3,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0516-冷水猿.json"
+  },
+  {
+    "id": "0517",
+    "name": "食梦梦",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0517-食梦梦.json"
+  },
+  {
+    "id": "0518",
+    "name": "梦梦蚀",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0518-梦梦蚀.json"
+  },
+  {
+    "id": "0519",
+    "name": "豆豆鸽",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0519-豆豆鸽.json"
+  },
+  {
+    "id": "0520",
+    "name": "咕咕鸽",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0520-咕咕鸽.json"
+  },
+  {
+    "id": "0521",
+    "name": "高傲雉鸡",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0521-高傲雉鸡.json"
+  },
+  {
+    "id": "0522",
+    "name": "斑斑马",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0522-斑斑马.json"
+  },
+  {
+    "id": "0523",
+    "name": "雷电斑马",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0523-雷电斑马.json"
+  },
+  {
+    "id": "0524",
+    "name": "石丸子",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0524-石丸子.json"
+  },
+  {
+    "id": "0525",
+    "name": "地幔岩",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0525-地幔岩.json"
+  },
+  {
+    "id": "0526",
+    "name": "庞岩怪",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0526-庞岩怪.json"
+  },
+  {
+    "id": "0527",
+    "name": "滚滚蝙蝠",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0527-滚滚蝙蝠.json"
+  },
+  {
+    "id": "0528",
+    "name": "心蝙蝠",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0528-心蝙蝠.json"
+  },
+  {
+    "id": "0531",
+    "name": "差不多娃娃",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0531-差不多娃娃.json"
+  },
+  {
+    "id": "0535",
+    "name": "圆蝌蚪",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0535-圆蝌蚪.json"
+  },
+  {
+    "id": "0536",
+    "name": "蓝蟾蜍",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0536-蓝蟾蜍.json"
+  },
+  {
+    "id": "0537",
+    "name": "蟾蜍王",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0537-蟾蜍王.json"
+  },
+  {
+    "id": "0538",
+    "name": "投摔鬼",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0538-投摔鬼.json"
+  },
+  {
+    "id": "0539",
+    "name": "打击鬼",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0539-打击鬼.json"
+  },
+  {
+    "id": "0540",
+    "name": "虫宝包",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0540-虫宝包.json"
+  },
+  {
+    "id": "0541",
+    "name": "宝包茧",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0541-宝包茧.json"
+  },
+  {
+    "id": "0542",
+    "name": "保姆虫",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0542-保姆虫.json"
+  },
+  {
+    "id": "0543",
+    "name": "百足蜈蚣",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0543-百足蜈蚣.json"
+  },
+  {
+    "id": "0544",
+    "name": "车轮球",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0544-车轮球.json"
+  },
+  {
+    "id": "0545",
+    "name": "蜈蚣王",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0545-蜈蚣王.json"
+  },
+  {
+    "id": "0554",
+    "name": "火红不倒翁",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0554-火红不倒翁.json"
+  },
+  {
+    "id": "0555",
+    "name": "达摩狒狒",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0555-达摩狒狒.json"
+  },
+  {
+    "id": "0556",
+    "name": "沙铃仙人掌",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0556-沙铃仙人掌.json"
+  },
+  {
+    "id": "0557",
+    "name": "石居蟹",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0557-石居蟹.json"
+  },
+  {
+    "id": "0558",
+    "name": "岩殿居蟹",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0558-岩殿居蟹.json"
+  },
+  {
+    "id": "0561",
+    "name": "象征鸟",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0561-象征鸟.json"
+  },
+  {
+    "id": "0562",
+    "name": "哭哭面具",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0562-哭哭面具.json"
+  },
+  {
+    "id": "0563",
+    "name": "迭失棺",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0563-迭失棺.json"
+  },
+  {
+    "id": "0564",
+    "name": "原盖海龟",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0564-原盖海龟.json"
+  },
+  {
+    "id": "0565",
+    "name": "肋骨海龟",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0565-肋骨海龟.json"
+  },
+  {
+    "id": "0566",
+    "name": "始祖小鸟",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0566-始祖小鸟.json"
+  },
+  {
+    "id": "0567",
+    "name": "始祖大鸟",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0567-始祖大鸟.json"
+  },
+  {
+    "id": "0568",
+    "name": "破破袋",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0568-破破袋.json"
+  },
+  {
+    "id": "0569",
+    "name": "灰尘山",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0569-灰尘山.json"
+  },
+  {
+    "id": "0580",
+    "name": "鸭宝宝",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0580-鸭宝宝.json"
+  },
+  {
+    "id": "0581",
+    "name": "舞天鹅",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0581-舞天鹅.json"
+  },
+  {
+    "id": "0582",
+    "name": "迷你冰",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0582-迷你冰.json"
+  },
+  {
+    "id": "0583",
+    "name": "多多冰",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0583-多多冰.json"
+  },
+  {
+    "id": "0584",
+    "name": "双倍多多冰",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0584-双倍多多冰.json"
+  },
+  {
+    "id": "0585",
+    "name": "四季鹿",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0585-四季鹿.json"
+  },
+  {
+    "id": "0586",
+    "name": "萌芽鹿",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0586-萌芽鹿.json"
+  },
+  {
+    "id": "0587",
+    "name": "电飞鼠",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0587-电飞鼠.json"
+  },
+  {
+    "id": "0588",
+    "name": "盖盖虫",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0588-盖盖虫.json"
+  },
+  {
+    "id": "0589",
+    "name": "骑士蜗牛",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0589-骑士蜗牛.json"
+  },
+  {
+    "id": "0592",
+    "name": "轻飘飘",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0592-轻飘飘.json"
+  },
+  {
+    "id": "0593",
+    "name": "胖嘟嘟",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0593-胖嘟嘟.json"
+  },
+  {
+    "id": "0594",
+    "name": "保姆曼波",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0594-保姆曼波.json"
+  },
+  {
+    "id": "0597",
+    "name": "种子铁球",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0597-种子铁球.json"
+  },
+  {
+    "id": "0598",
+    "name": "坚果哑铃",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0598-坚果哑铃.json"
+  },
+  {
+    "id": "0599",
+    "name": "齿轮儿",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0599-齿轮儿.json"
+  },
+  {
+    "id": "0600",
+    "name": "齿轮组",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0600-齿轮组.json"
+  },
+  {
+    "id": "0601",
+    "name": "齿轮怪",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0601-齿轮怪.json"
+  },
+  {
+    "id": "0602",
+    "name": "麻麻小鱼",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0602-麻麻小鱼.json"
+  },
+  {
+    "id": "0603",
+    "name": "麻麻鳗",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0603-麻麻鳗.json"
+  },
+  {
+    "id": "0604",
+    "name": "麻麻鳗鱼王",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0604-麻麻鳗鱼王.json"
+  },
+  {
+    "id": "0605",
+    "name": "小灰怪",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0605-小灰怪.json"
+  },
+  {
+    "id": "0606",
+    "name": "大宇怪",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0606-大宇怪.json"
+  },
+  {
+    "id": "0616",
+    "name": "小嘴蜗",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0616-小嘴蜗.json"
+  },
+  {
+    "id": "0617",
+    "name": "敏捷虫",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0617-敏捷虫.json"
+  },
+  {
+    "id": "0618",
+    "name": "泥巴鱼",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0618-泥巴鱼.json"
+  },
+  {
+    "id": "0621",
+    "name": "赤面龙",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0621-赤面龙.json"
+  },
+  {
+    "id": "0626",
+    "name": "爆炸头水牛",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0626-爆炸头水牛.json"
+  },
+  {
+    "id": "0631",
+    "name": "熔蚁兽",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0631-熔蚁兽.json"
+  },
+  {
+    "id": "0632",
+    "name": "铁蚁",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0632-铁蚁.json"
+  },
+  {
+    "id": "0648",
+    "name": "美洛耶塔",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0648-美洛耶塔.json"
+  },
+  {
+    "id": "0649",
+    "name": "盖诺赛克特",
+    "debut": 5,
+    "existing": 4,
+    "expected": 5,
+    "existingGens": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0649-盖诺赛克特.json"
+  },
+  {
+    "id": "0650",
+    "name": "哈力栗",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0650-哈力栗.json"
+  },
+  {
+    "id": "0651",
+    "name": "胖胖哈力",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0651-胖胖哈力.json"
+  },
+  {
+    "id": "0652",
+    "name": "布里卡隆",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0652-布里卡隆.json"
+  },
+  {
+    "id": "0653",
+    "name": "火狐狸",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0653-火狐狸.json"
+  },
+  {
+    "id": "0654",
+    "name": "长尾火狐",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0654-长尾火狐.json"
+  },
+  {
+    "id": "0655",
+    "name": "妖火红狐",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0655-妖火红狐.json"
+  },
+  {
+    "id": "0656",
+    "name": "呱呱泡蛙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0656-呱呱泡蛙.json"
+  },
+  {
+    "id": "0657",
+    "name": "呱头蛙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0657-呱头蛙.json"
+  },
+  {
+    "id": "0658",
+    "name": "甲贺忍蛙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0658-甲贺忍蛙.json"
+  },
+  {
+    "id": "0659",
+    "name": "掘掘兔",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0659-掘掘兔.json"
+  },
+  {
+    "id": "0660",
+    "name": "掘地兔",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0660-掘地兔.json"
+  },
+  {
+    "id": "0664",
+    "name": "粉蝶虫",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0664-粉蝶虫.json"
+  },
+  {
+    "id": "0665",
+    "name": "粉蝶蛹",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0665-粉蝶蛹.json"
+  },
+  {
+    "id": "0666",
+    "name": "彩粉蝶",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0666-彩粉蝶.json"
+  },
+  {
+    "id": "0667",
+    "name": "小狮狮",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0667-小狮狮.json"
+  },
+  {
+    "id": "0668",
+    "name": "火炎狮",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0668-火炎狮.json"
+  },
+  {
+    "id": "0669",
+    "name": "花蓓蓓",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0669-花蓓蓓.json"
+  },
+  {
+    "id": "0670",
+    "name": "花叶蒂",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0670-花叶蒂.json"
+  },
+  {
+    "id": "0671",
+    "name": "花洁夫人",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0671-花洁夫人.json"
+  },
+  {
+    "id": "0672",
+    "name": "坐骑小羊",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0672-坐骑小羊.json"
+  },
+  {
+    "id": "0673",
+    "name": "坐骑山羊",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0673-坐骑山羊.json"
+  },
+  {
+    "id": "0674",
+    "name": "顽皮熊猫",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0674-顽皮熊猫.json"
+  },
+  {
+    "id": "0675",
+    "name": "霸道熊猫",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0675-霸道熊猫.json"
+  },
+  {
+    "id": "0676",
+    "name": "多丽米亚",
+    "debut": 6,
+    "existing": 2,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7
+    ],
+    "missingGens": [
+      8,
+      9
+    ],
+    "file": "0676-多丽米亚.json"
+  },
+  {
+    "id": "0679",
+    "name": "独剑鞘",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0679-独剑鞘.json"
+  },
+  {
+    "id": "0680",
+    "name": "双剑鞘",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0680-双剑鞘.json"
+  },
+  {
+    "id": "0681",
+    "name": "坚盾剑怪",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0681-坚盾剑怪.json"
+  },
+  {
+    "id": "0682",
+    "name": "粉香香",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0682-粉香香.json"
+  },
+  {
+    "id": "0683",
+    "name": "芳香精",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0683-芳香精.json"
+  },
+  {
+    "id": "0684",
+    "name": "绵绵泡芙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0684-绵绵泡芙.json"
+  },
+  {
+    "id": "0685",
+    "name": "胖甜妮",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0685-胖甜妮.json"
+  },
+  {
+    "id": "0688",
+    "name": "龟脚脚",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0688-龟脚脚.json"
+  },
+  {
+    "id": "0689",
+    "name": "龟足巨铠",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0689-龟足巨铠.json"
+  },
+  {
+    "id": "0694",
+    "name": "伞电蜥",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0694-伞电蜥.json"
+  },
+  {
+    "id": "0695",
+    "name": "光电伞蜥",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0695-光电伞蜥.json"
+  },
+  {
+    "id": "0696",
+    "name": "宝宝暴龙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0696-宝宝暴龙.json"
+  },
+  {
+    "id": "0697",
+    "name": "怪颚龙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0697-怪颚龙.json"
+  },
+  {
+    "id": "0698",
+    "name": "冰雪龙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0698-冰雪龙.json"
+  },
+  {
+    "id": "0699",
+    "name": "冰雪巨龙",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0699-冰雪巨龙.json"
+  },
+  {
+    "id": "0710",
+    "name": "南瓜精",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0710-南瓜精.json"
+  },
+  {
+    "id": "0711",
+    "name": "南瓜怪人",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0711-南瓜怪人.json"
+  },
+  {
+    "id": "0716",
+    "name": "哲尔尼亚斯",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0716-哲尔尼亚斯.json"
+  },
+  {
+    "id": "0717",
+    "name": "伊裴尔塔尔",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0717-伊裴尔塔尔.json"
+  },
+  {
+    "id": "0718",
+    "name": "基格尔德",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0718-基格尔德.json"
+  },
+  {
+    "id": "0720",
+    "name": "胡帕",
+    "debut": 6,
+    "existing": 3,
+    "expected": 4,
+    "existingGens": [
+      6,
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0720-胡帕.json"
+  },
+  {
+    "id": "0731",
+    "name": "小笃儿",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0731-小笃儿.json"
+  },
+  {
+    "id": "0732",
+    "name": "喇叭啄鸟",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0732-喇叭啄鸟.json"
+  },
+  {
+    "id": "0733",
+    "name": "铳嘴大鸟",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0733-铳嘴大鸟.json"
+  },
+  {
+    "id": "0734",
+    "name": "猫鼬少",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0734-猫鼬少.json"
+  },
+  {
+    "id": "0735",
+    "name": "猫鼬探长",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0735-猫鼬探长.json"
+  },
+  {
+    "id": "0739",
+    "name": "好胜蟹",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0739-好胜蟹.json"
+  },
+  {
+    "id": "0740",
+    "name": "好胜毛蟹",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0740-好胜毛蟹.json"
+  },
+  {
+    "id": "0741",
+    "name": "花舞鸟",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0741-花舞鸟.json"
+  },
+  {
+    "id": "0745",
+    "name": "鬃岩狼人",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0745-鬃岩狼人.json"
+  },
+  {
+    "id": "0746",
+    "name": "弱丁鱼",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0746-弱丁鱼.json"
+  },
+  {
+    "id": "0755",
+    "name": "睡睡菇",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0755-睡睡菇.json"
+  },
+  {
+    "id": "0756",
+    "name": "灯罩夜菇",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0756-灯罩夜菇.json"
+  },
+  {
+    "id": "0759",
+    "name": "童偶熊",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0759-童偶熊.json"
+  },
+  {
+    "id": "0760",
+    "name": "穿着熊",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0760-穿着熊.json"
+  },
+  {
+    "id": "0767",
+    "name": "胆小虫",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0767-胆小虫.json"
+  },
+  {
+    "id": "0768",
+    "name": "具甲武者",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0768-具甲武者.json"
+  },
+  {
+    "id": "0771",
+    "name": "拳海参",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0771-拳海参.json"
+  },
+  {
+    "id": "0772",
+    "name": "属性：空",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0772-属性：空.json"
+  },
+  {
+    "id": "0773",
+    "name": "银伴战兽",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0773-银伴战兽.json"
+  },
+  {
+    "id": "0774",
+    "name": "小陨星",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0774-小陨星.json"
+  },
+  {
+    "id": "0775",
+    "name": "树枕尾熊",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0775-树枕尾熊.json"
+  },
+  {
+    "id": "0776",
+    "name": "爆焰龟兽",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0776-爆焰龟兽.json"
+  },
+  {
+    "id": "0777",
+    "name": "托戈德玛尔",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0777-托戈德玛尔.json"
+  },
+  {
+    "id": "0779",
+    "name": "磨牙彩皮鱼",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0779-磨牙彩皮鱼.json"
+  },
+  {
+    "id": "0780",
+    "name": "老翁龙",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0780-老翁龙.json"
+  },
+  {
+    "id": "0781",
+    "name": "破破舵轮",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0781-破破舵轮.json"
+  },
+  {
+    "id": "0785",
+    "name": "卡璞・鸣鸣",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0785-卡璞・鸣鸣.json"
+  },
+  {
+    "id": "0786",
+    "name": "卡璞・蝶蝶",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0786-卡璞・蝶蝶.json"
+  },
+  {
+    "id": "0787",
+    "name": "卡璞・哞哞",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0787-卡璞・哞哞.json"
+  },
+  {
+    "id": "0788",
+    "name": "卡璞・鳍鳍",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0788-卡璞・鳍鳍.json"
+  },
+  {
+    "id": "0793",
+    "name": "虚吾伊德",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0793-虚吾伊德.json"
+  },
+  {
+    "id": "0794",
+    "name": "爆肌蚊",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0794-爆肌蚊.json"
+  },
+  {
+    "id": "0795",
+    "name": "费洛美螂",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0795-费洛美螂.json"
+  },
+  {
+    "id": "0796",
+    "name": "电束木",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0796-电束木.json"
+  },
+  {
+    "id": "0797",
+    "name": "铁火辉夜",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0797-铁火辉夜.json"
+  },
+  {
+    "id": "0798",
+    "name": "纸御剑",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0798-纸御剑.json"
+  },
+  {
+    "id": "0799",
+    "name": "恶食大王",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0799-恶食大王.json"
+  },
+  {
+    "id": "0802",
+    "name": "玛夏多",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0802-玛夏多.json"
+  },
+  {
+    "id": "0803",
+    "name": "毒贝比",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0803-毒贝比.json"
+  },
+  {
+    "id": "0804",
+    "name": "四颚针龙",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0804-四颚针龙.json"
+  },
+  {
+    "id": "0805",
+    "name": "垒磊石",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0805-垒磊石.json"
+  },
+  {
+    "id": "0806",
+    "name": "砰头小丑",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0806-砰头小丑.json"
+  },
+  {
+    "id": "0807",
+    "name": "捷拉奥拉",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0807-捷拉奥拉.json"
+  },
+  {
+    "id": "0808",
+    "name": "美录坦",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0808-美录坦.json"
+  },
+  {
+    "id": "0809",
+    "name": "美录梅塔",
+    "debut": 7,
+    "existing": 2,
+    "expected": 3,
+    "existingGens": [
+      7,
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0809-美录梅塔.json"
+  },
+  {
+    "id": "0824",
+    "name": "索侦虫",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0824-索侦虫.json"
+  },
+  {
+    "id": "0825",
+    "name": "天罩虫",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0825-天罩虫.json"
+  },
+  {
+    "id": "0826",
+    "name": "以欧路普",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0826-以欧路普.json"
+  },
+  {
+    "id": "0827",
+    "name": "狡小狐",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0827-狡小狐.json"
+  },
+  {
+    "id": "0828",
+    "name": "猾大狐",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0828-猾大狐.json"
+  },
+  {
+    "id": "0829",
+    "name": "幼棉棉",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0829-幼棉棉.json"
+  },
+  {
+    "id": "0830",
+    "name": "白蓬蓬",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0830-白蓬蓬.json"
+  },
+  {
+    "id": "0831",
+    "name": "毛辫羊",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0831-毛辫羊.json"
+  },
+  {
+    "id": "0832",
+    "name": "毛毛角羊",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0832-毛毛角羊.json"
+  },
+  {
+    "id": "0835",
+    "name": "来电汪",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0835-来电汪.json"
+  },
+  {
+    "id": "0836",
+    "name": "逐电犬",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0836-逐电犬.json"
+  },
+  {
+    "id": "0850",
+    "name": "烧火蚣",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0850-烧火蚣.json"
+  },
+  {
+    "id": "0851",
+    "name": "焚焰蚣",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0851-焚焰蚣.json"
+  },
+  {
+    "id": "0852",
+    "name": "拳拳蛸",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0852-拳拳蛸.json"
+  },
+  {
+    "id": "0853",
+    "name": "八爪武师",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0853-八爪武师.json"
+  },
+  {
+    "id": "0862",
+    "name": "堵拦熊",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0862-堵拦熊.json"
+  },
+  {
+    "id": "0864",
+    "name": "魔灵珊瑚",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0864-魔灵珊瑚.json"
+  },
+  {
+    "id": "0865",
+    "name": "葱游兵",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0865-葱游兵.json"
+  },
+  {
+    "id": "0866",
+    "name": "踏冰人偶",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0866-踏冰人偶.json"
+  },
+  {
+    "id": "0867",
+    "name": "迭失板",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0867-迭失板.json"
+  },
+  {
+    "id": "0880",
+    "name": "雷鸟龙",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0880-雷鸟龙.json"
+  },
+  {
+    "id": "0881",
+    "name": "雷鸟海兽",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0881-雷鸟海兽.json"
+  },
+  {
+    "id": "0882",
+    "name": "鳃鱼龙",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0882-鳃鱼龙.json"
+  },
+  {
+    "id": "0883",
+    "name": "鳃鱼海兽",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      8
+    ],
+    "missingGens": [
+      9
+    ],
+    "file": "0883-鳃鱼海兽.json"
+  },
+  {
+    "id": "0898",
+    "name": "蕾冠王",
+    "debut": 8,
+    "existing": 1,
+    "expected": 2,
+    "existingGens": [
+      9
+    ],
+    "missingGens": [
+      8
+    ],
+    "file": "0898-蕾冠王.json"
+  }
+]
