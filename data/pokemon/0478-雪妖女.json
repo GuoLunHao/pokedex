@@ -1,0 +1,5287 @@
+{
+  "name_zh": "雪妖女",
+  "name_ja": "ユキメノコ",
+  "name_en": "Froslass",
+  "pokedex_id": "0478",
+  "description": "雪妖女（日文︰ユキメノコ，英文︰Froslass）是冰属性／幽灵属性宝可梦。",
+  "profile": "雪妖女看起来身着和服，飘浮在空中。它的头看起来像一滴侧转的水滴，头顶上有两块冰晶和一些孔，透过孔洞能看到它紫色的皮肤。而从两个孔中，有黄色巩膜的冰晶蓝色的眼睛向外窥视着。它看起来像耳朵一样的手臂挂在头边，手有三只小手指，手臂上发亮的部分有斑块状的淡蓝色。看起来像是躯体的部分其实里面是空的。雪妖女只有雌性。虽然有人认为与它对应雄性宝可梦是冰鬼护，但是冰鬼护也有雌性。\n雪妖女是被怀抱怨恨消失在雪山中的女人魂魄所附体在冰柱上的宝可梦。在经常下雪的地方，也流传着它是由雪山遇难的女子转世而来的说法。据说它会在刮着猛烈暴风雪的夜晚下山，前往人类居住的村落，所以即使听到敲门声也千万不能开门。据说它会吐出零下５０度的气息冻结猎物，然后将其带到秘密的地方整齐地摆成一排装饰起来。它也会把前来爬雪山的登山男和自己中意的人类或宝可梦冻成冰块后带回自己的巢穴，而且只会盯上美男子。它最喜欢冻成冰的灵魂，喜欢吃男性的魂魄。传说会施咒杀死行为不检的男人，令人心惊胆战。\n超级雪妖女散发出带有幽灵能量的诡异冷气，连火和风等没有形状的东西也能冻住。",
+  "prototype": "雪妖女源于日本传说中的雪女。在某些故事中，雪女也会制造出“雪童子”诱拐登山客。\n雪妖女的造型可能基于木芥子人偶，木芥子与雪女的传说都与日本东北地方关系密切。\n结合身高，超级雪妖女的原型或许加入了八尺夫人的要素。",
+  "detail": "雪妖女是有唯一属性组合的宝可梦，冰属性／幽灵属性组合。\n由于《黑／白》中GTS的词汇过滤机制，英语语言的雪妖女在没有昵称的情况下无法在GTSBW上被交换。\n同样的情况也发生在朝北鼻，大朝北鼻和迭失棺上。\n如果您在寻找此宝可梦在Pokémon GO里的资料，请移步雪妖女（Pokémon GO）。\n←\nNo.0477：黑夜魔灵\n宝可梦\nNo.0479：洛托姆\n→",
+  "names": [
+    {
+      "language": "日文",
+      "name": "ユキメノコ Yukimenoko",
+      "origin": "来自“雪（ゆき）”和“女（め）の子（こ）”（女子）。"
+    },
+    {
+      "language": "中文-任天堂",
+      "name": "雪妖女",
+      "origin": "来自“雪”和“妖女”。"
+    },
+    {
+      "language": "中文-大陆",
+      "name": "雪妖女",
+      "origin": "来自“雪”和“妖女”。"
+    },
+    {
+      "language": "中文-台湾",
+      "name": "雪妖女",
+      "origin": "来自“雪”和“妖女”。"
+    },
+    {
+      "language": "中文-香港",
+      "name": "雪妖女",
+      "origin": "来自“雪”和“妖女”。"
+    },
+    {
+      "language": "英文",
+      "name": "Froslass",
+      "origin": "来自 frost（霜；冻结）和 lass（姑娘）。"
+    },
+    {
+      "language": "法文",
+      "name": "Momartik",
+      "origin": "来自口语 môme（姑娘）和 arctique（北极的）。"
+    },
+    {
+      "language": "德文",
+      "name": "Frosdedje",
+      "origin": "来自 Frost（霜）和 Mädchen（姑娘）。"
+    },
+    {
+      "language": "意大利文",
+      "name": "Froslass",
+      "origin": "同英文名。"
+    },
+    {
+      "language": "西班牙文",
+      "name": "Froslass",
+      "origin": "同英文名。"
+    },
+    {
+      "language": "韩文",
+      "name": "눈여아 Nunyeoa",
+      "origin": "来自“눈”（雪）和“여아〈女兒〉”（女儿）。"
+    }
+  ],
+  "forms": [
+    {
+      "name": "雪妖女",
+      "types": [
+        "冰",
+        "幽灵"
+      ],
+      "category": "雪国宝可梦",
+      "abilities": [
+        {
+          "name": "雪隐",
+          "is_hidden": false
+        },
+        {
+          "name": "咒术之躯",
+          "is_hidden": true
+        }
+      ],
+      "height": "1.3m",
+      "weight": "26.6kg",
+      "color": "白色",
+      "catch_rate": "75（9.8%）",
+      "egg_groups": [
+        "妖精",
+        "矿物群"
+      ],
+      "experience_100": "1,000,000（较快）",
+      "base_points": [
+        {
+          "stat": "hp",
+          "value": 0
+        },
+        {
+          "stat": "attack",
+          "value": 0
+        },
+        {
+          "stat": "defense",
+          "value": 0
+        },
+        {
+          "stat": "sp_attack",
+          "value": 0
+        },
+        {
+          "stat": "sp_defense",
+          "value": 0
+        },
+        {
+          "stat": "speed",
+          "value": 2
+        }
+      ],
+      "base_exp": "168",
+      "battle_exp": "1681",
+      "gender_ratio": {
+        "male": 0,
+        "female": 100
+      },
+      "egg_cycles": "20 孵化周期（5140步）",
+      "shape": "Body04.png",
+      "footprint": "F478.png",
+      "image": "0478-雪妖女.png"
+    },
+    {
+      "name": "超级雪妖女",
+      "types": [
+        "冰",
+        "幽灵"
+      ],
+      "category": "雪国宝可梦",
+      "abilities": [
+        {
+          "name": "未知",
+          "is_hidden": false
+        }
+      ],
+      "height": "2.6m",
+      "weight": "29.6kg",
+      "color": "白色",
+      "catch_rate": "75（9.8%）",
+      "egg_groups": [
+        "妖精",
+        "矿物群"
+      ],
+      "experience_100": "1,000,000（较快）",
+      "base_points": [
+        {
+          "stat": "hp",
+          "value": 0
+        },
+        {
+          "stat": "attack",
+          "value": 0
+        },
+        {
+          "stat": "defense",
+          "value": 0
+        },
+        {
+          "stat": "sp_attack",
+          "value": 0
+        },
+        {
+          "stat": "sp_defense",
+          "value": 0
+        },
+        {
+          "stat": "speed",
+          "value": 2
+        }
+      ],
+      "base_exp": "168",
+      "battle_exp": "1681",
+      "gender_ratio": {
+        "male": 0,
+        "female": 100
+      },
+      "egg_cycles": "20 孵化周期（5140步）",
+      "shape": "Body04.png",
+      "footprint": "F478.png",
+      "image": "0478-雪妖女-超级雪妖女.png"
+    }
+  ],
+  "stats": [
+    {
+      "form": "普通",
+      "data": {
+        "hp": "70",
+        "attack": "80",
+        "defense": "70",
+        "sp_attack": "80",
+        "sp_defense": "70",
+        "speed": "110"
+      }
+    },
+    {
+      "form": "超级进化",
+      "data": {
+        "hp": "70",
+        "attack": "80",
+        "defense": "70",
+        "sp_attack": "140",
+        "sp_defense": "100",
+        "speed": "120"
+      }
+    }
+  ],
+  "type_effectiveness": [
+    {
+      "form": "",
+      "types": [
+        "冰",
+        "幽灵"
+      ],
+      "data": [
+        {
+          "type": "一般",
+          "damage": "0"
+        },
+        {
+          "type": "格斗",
+          "damage": "0"
+        },
+        {
+          "type": "飞行",
+          "damage": "1"
+        },
+        {
+          "type": "毒",
+          "damage": "0.5"
+        },
+        {
+          "type": "地面",
+          "damage": "1"
+        },
+        {
+          "type": "岩石",
+          "damage": "2"
+        },
+        {
+          "type": "虫",
+          "damage": "0.5"
+        },
+        {
+          "type": "幽灵",
+          "damage": "2"
+        },
+        {
+          "type": "钢",
+          "damage": "2"
+        },
+        {
+          "type": "火",
+          "damage": "2"
+        },
+        {
+          "type": "水",
+          "damage": "1"
+        },
+        {
+          "type": "草",
+          "damage": "1"
+        },
+        {
+          "type": "电",
+          "damage": "1"
+        },
+        {
+          "type": "超能力",
+          "damage": "1"
+        },
+        {
+          "type": "冰",
+          "damage": "0.5"
+        },
+        {
+          "type": "龙",
+          "damage": "1"
+        },
+        {
+          "type": "恶",
+          "damage": "2"
+        },
+        {
+          "type": "妖精",
+          "damage": "1"
+        }
+      ]
+    }
+  ],
+  "pokedex_entries": [
+    {
+      "name": "第四世代",
+      "versions": [
+        {
+          "name": "钻石",
+          "group": "宝可梦 钻石／珍珠",
+          "text": "吐出零下５０度的冷气让对手冻结。看起来像是躯体的部分，其实里面是空的。"
+        },
+        {
+          "name": "珍珠",
+          "group": "宝可梦 钻石／珍珠",
+          "text": "吐出零下５０度的冷气让对手冻结。看起来像是躯体的部分，其实里面是空的。"
+        },
+        {
+          "name": "白金",
+          "group": "宝可梦 白金",
+          "text": "据说它会吐出零下５０度的气息冻结猎物，然后将其带到秘密的地方装饰起来。"
+        },
+        {
+          "name": "心金",
+          "group": "宝可梦 心金／魂银",
+          "text": "在经常下雪的地方，流传着它是由雪山遇难的女子转世而来的说法。"
+        },
+        {
+          "name": "魂银",
+          "group": "宝可梦 心金／魂银",
+          "text": "在经常下雪的地方，流传着它是由雪山遇难的女子转世而来的说法。"
+        }
+      ]
+    },
+    {
+      "name": "第五世代",
+      "versions": [
+        {
+          "name": "黑",
+          "group": "宝可梦 黑／白",
+          "text": "据说它会吐出零下５０度的气息冻结猎物，然后将其带到秘密的地方装饰起来。"
+        },
+        {
+          "name": "白",
+          "group": "宝可梦 黑／白",
+          "text": "据说它会吐出零下５０度的气息冻结猎物，然后将其带到秘密的地方装饰起来。"
+        }
+      ]
+    },
+    {
+      "name": "第六世代",
+      "versions": [
+        {
+          "name": "Ｘ",
+          "group": "宝可梦 Ｘ／Ｙ",
+          "text": "吐出零下５０度的冷气让对手冻结。看起来像是躯体的部分，其实里面是空的。"
+        },
+        {
+          "name": "Ｙ",
+          "group": "宝可梦 Ｘ／Ｙ",
+          "text": "在经常下雪的地方，流传着它是由雪山遇难的女子转世而来的说法。"
+        },
+        {
+          "name": "欧米伽红宝石",
+          "group": "宝可梦 欧米伽红宝石／阿尔法蓝宝石",
+          "text": "吐出零下５０度的冷气让对手冻结。看起来像是躯体的部分，其实里面是空的。"
+        },
+        {
+          "name": "阿尔法蓝宝石",
+          "group": "宝可梦 欧米伽红宝石／阿尔法蓝宝石",
+          "text": "在经常下雪的地方，流传着它是由雪山遇难的女子转世而来的说法。"
+        }
+      ]
+    },
+    {
+      "name": "第七世代",
+      "versions": [
+        {
+          "name": "太阳",
+          "group": "精灵宝可梦 太阳／月亮",
+          "text": "用冷气把中意的人类或宝可梦都冻起来。然后带回巢穴当装饰用。"
+        },
+        {
+          "name": "月亮",
+          "group": "精灵宝可梦 太阳／月亮",
+          "text": "在雪山遇难的女性魂魄附体在冰柱上。喜欢吃男性的魂魄。"
+        }
+      ]
+    },
+    {
+      "name": "第八世代",
+      "versions": [
+        {
+          "name": "剑",
+          "group": "宝可梦 剑／盾",
+          "text": "从在雪山遇难的女性的遗恨让这宝可梦诞生。它最喜欢冻成冰的灵魂。"
+        },
+        {
+          "name": "盾",
+          "group": "宝可梦 剑／盾",
+          "text": "会吐出零下５０度的冷气冻住猎物，并把它们带回自己的巢穴，整齐地摆成一排。"
+        },
+        {
+          "name": "晶灿钻石",
+          "group": "宝可梦 晶灿钻石／明亮珍珠",
+          "text": "吐出零下５０度的冷气让对手冻结。看起来像是躯体的部分，其实里面是空的。"
+        },
+        {
+          "name": "明亮珍珠",
+          "group": "宝可梦 晶灿钻石／明亮珍珠",
+          "text": "吐出零下５０度的冷气让对手冻结。看起来像是躯体的部分，其实里面是空的。"
+        },
+        {
+          "name": "传说 阿尔宙斯",
+          "group": "宝可梦传说 阿尔宙斯",
+          "text": "被怀抱怨恨消失在雪山中的女人魂魄所附的宝可梦。传说会施咒杀死行为不检的男人，令人心惊胆战。"
+        }
+      ]
+    },
+    {
+      "name": "第九世代",
+      "versions": [
+        {
+          "name": "朱",
+          "group": "宝可梦 朱／紫",
+          "text": "用冷气把中意的人类或宝可梦都冻起来。然后带回巢穴当装饰用。"
+        },
+        {
+          "name": "紫",
+          "group": "宝可梦 朱／紫",
+          "text": "据说它会吐出零下５０度的气息冻结猎物，然后将其带到秘密的地方装饰起来。"
+        },
+        {
+          "name": "传说 Z-A",
+          "group": "宝可梦传说 Z-A",
+          "text": "吐出零下５０度的冷气让对手冻结。看起来像是躯体的部分，其实里面是空的。散发出带有幽灵能量的诡异冷气，连火和风等没有形状的东西也能冻住。（超级进化）"
+        }
+      ]
+    }
+  ],
+  "evolution_chains": [
+    [
+      {
+        "name": "雪童子",
+        "stage": "未进化",
+        "text": null,
+        "image": "361Snorunt_Dream.png",
+        "back_text": null,
+        "from": null,
+        "form_name": null
+      },
+      {
+        "name": "雪妖女",
+        "stage": "1阶进化",
+        "text": "使用觉醒之石（雌性）",
+        "image": "478Froslass_Dream.png",
+        "back_text": null,
+        "from": "雪童子",
+        "form_name": null
+      }
+    ]
+  ],
+  "mega_evolution": [
+    {
+      "name": "雪妖女",
+      "form_name": "超级雪妖女",
+      "image": "478Froslass-Mega.png"
+    }
+  ],
+  "gigantamax_evolution": [],
+  "learnable_moves": [
+    {
+      "form": "一般",
+      "generation": 4,
+      "data": [
+        {
+          "level": "—",
+          "name": "细雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "—",
+          "name": "瞪眼",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "—",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "4",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "10",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "13",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "19",
+          "name": "奇异之光",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "22",
+          "name": "奇异之风",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "5"
+        },
+        {
+          "level": "28",
+          "name": "唤醒巴掌",
+          "type": "格斗",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "31",
+          "name": "诱惑",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "level": "37",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "40",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "51",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "120",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "level": "59",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 5,
+      "data": [
+        {
+          "level": "—",
+          "name": "细雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "—",
+          "name": "瞪眼",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "—",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "4",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "10",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "13",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "19",
+          "name": "奇异之光",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "22",
+          "name": "奇异之风",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "5"
+        },
+        {
+          "level": "28",
+          "name": "唤醒巴掌",
+          "type": "格斗",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "31",
+          "name": "诱惑",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "level": "37",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "40",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "51",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "120",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "level": "59",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 6,
+      "data": [
+        {
+          "level": "—",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "level": "—",
+          "name": "细雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "—",
+          "name": "瞪眼",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "—",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "无",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "4",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "37",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "13",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "10",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "无",
+          "name": "吸取之吻",
+          "type": "妖精",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "22",
+          "name": "奇异之风",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "5"
+        },
+        {
+          "level": "19",
+          "name": "奇异之光",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "28",
+          "name": "唤醒巴掌",
+          "type": "格斗",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "31",
+          "name": "诱惑",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "level": "无",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "51",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "level": "40",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "59",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 7,
+      "data": [
+        {
+          "level": "—",
+          "name": "奇异之风",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "5"
+        },
+        {
+          "level": "—",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "level": "—",
+          "name": "细雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "—",
+          "name": "瞪眼",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "—",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "进化",
+          "name": "奇异之风",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "5"
+        },
+        {
+          "level": "5",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "10",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "14",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "19",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "23",
+          "name": "吸取之吻",
+          "type": "妖精",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "28",
+          "name": "磷火",
+          "type": "火",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "15"
+        },
+        {
+          "level": "32",
+          "name": "奇异之光",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "37",
+          "name": "唤醒巴掌",
+          "type": "格斗",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "41",
+          "name": "诱惑",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "level": "42",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "48",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "level": "54",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "61",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 8,
+      "data": [
+        {
+          "level": "进化",
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "65",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "—",
+          "name": "冰冻牙",
+          "type": "冰",
+          "category": "物理",
+          "power": "65",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "咬住",
+          "type": "恶",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "—",
+          "name": "细雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "—",
+          "name": "瞪眼",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "—",
+          "name": "咬碎",
+          "type": "恶",
+          "category": "物理",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "头锤",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "level": "—",
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "65",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "—",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "—",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "15",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "20",
+          "name": "吸取之吻",
+          "type": "妖精",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "25",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "30",
+          "name": "冰息",
+          "type": "冰",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "level": "35",
+          "name": "奇异之光",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "40",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "47",
+          "name": "磷火",
+          "type": "火",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "15"
+        },
+        {
+          "level": "54",
+          "name": "极光幕",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "level": "61",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "68",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 9,
+      "data": [
+        {
+          "level": "进化",
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "65",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "—",
+          "name": "咬碎",
+          "type": "恶",
+          "category": "物理",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "冰冻牙",
+          "type": "冰",
+          "category": "物理",
+          "power": "65",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "惊吓",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "同命",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "level": "—",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "—",
+          "name": "头锤",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "level": "—",
+          "name": "咬住",
+          "type": "恶",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "—",
+          "name": "瞪眼",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "—",
+          "name": "细雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "25"
+        },
+        {
+          "level": "15",
+          "name": "冰砾",
+          "type": "冰",
+          "category": "物理",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "level": "20",
+          "name": "吸取之吻",
+          "type": "妖精",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "25",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "level": "30",
+          "name": "冰息",
+          "type": "冰",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "level": "35",
+          "name": "奇异之光",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "level": "40",
+          "name": "雪景",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "level": "47",
+          "name": "磷火",
+          "type": "火",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "15"
+        },
+        {
+          "level": "54",
+          "name": "极光幕",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "level": "61",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "level": "68",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        }
+      ]
+    }
+  ],
+  "machine_moves": [
+    {
+      "form": "一般",
+      "generation": 4,
+      "data": [
+        {
+          "machine": "招式学习器０３",
+          "name": "水之波动",
+          "type": "水",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０６",
+          "name": "剧毒",
+          "type": "毒",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０７",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１０",
+          "name": "觉醒力量",
+          "type": "一般",
+          "category": "特殊",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１２",
+          "name": "挑衅",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１３",
+          "name": "冰冻光束",
+          "type": "冰",
+          "category": "特殊",
+          "power": "95",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１４",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "120",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１５",
+          "name": "破坏光线",
+          "type": "一般",
+          "category": "特殊",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１６",
+          "name": "光墙",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器１７",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１８",
+          "name": "求雨",
+          "type": "水",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器２０",
+          "name": "神秘守护",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "25"
+        },
+        {
+          "machine": "招式学习器２１",
+          "name": "迁怒",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２４",
+          "name": "十万伏特",
+          "type": "电",
+          "category": "特殊",
+          "power": "95",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器２５",
+          "name": "打雷",
+          "type": "电",
+          "category": "特殊",
+          "power": "120",
+          "accuracy": "70",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２７",
+          "name": "报恩",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２９",
+          "name": "精神强念",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器３０",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器３２",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器３４",
+          "name": "电击波",
+          "type": "电",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器４１",
+          "name": "无理取闹",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４２",
+          "name": "硬撑",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器４３",
+          "name": "秘密之力",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器４４",
+          "name": "睡觉",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器４５",
+          "name": "迷人",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４９",
+          "name": "化为己用",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器５６",
+          "name": "投掷",
+          "type": "恶",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器５８",
+          "name": "挺住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６３",
+          "name": "查封",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器６６",
+          "name": "以牙还牙",
+          "type": "恶",
+          "category": "物理",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６８",
+          "name": "终极冲击",
+          "type": "一般",
+          "category": "物理",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器７０",
+          "name": "闪光",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７２",
+          "name": "雪崩",
+          "type": "冰",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器７３",
+          "name": "电磁波",
+          "type": "电",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７７",
+          "name": "自我暗示",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器７８",
+          "name": "诱惑",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器８２",
+          "name": "梦话",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器８３",
+          "name": "自然之恩",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器８５",
+          "name": "食梦",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "100",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器８７",
+          "name": "虚张声势",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器９０",
+          "name": "替身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 5,
+      "data": [
+        {
+          "machine": "招式学习器０６",
+          "name": "剧毒",
+          "type": "毒",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０７",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１０",
+          "name": "觉醒力量",
+          "type": "一般",
+          "category": "特殊",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１２",
+          "name": "挑衅",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１３",
+          "name": "冰冻光束",
+          "type": "冰",
+          "category": "特殊",
+          "power": "95",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１４",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "120",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１５",
+          "name": "破坏光线",
+          "type": "一般",
+          "category": "特殊",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１６",
+          "name": "光墙",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器１７",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１８",
+          "name": "求雨",
+          "type": "水",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１９",
+          "name": "意念移物",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器２０",
+          "name": "神秘守护",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "25"
+        },
+        {
+          "machine": "招式学习器２１",
+          "name": "迁怒",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２４",
+          "name": "十万伏特",
+          "type": "电",
+          "category": "特殊",
+          "power": "95",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器２５",
+          "name": "打雷",
+          "type": "电",
+          "category": "特殊",
+          "power": "120",
+          "accuracy": "70",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２７",
+          "name": "报恩",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２９",
+          "name": "精神强念",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器３０",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器３２",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４１",
+          "name": "无理取闹",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４２",
+          "name": "硬撑",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器４４",
+          "name": "睡觉",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器４５",
+          "name": "迷人",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４８",
+          "name": "轮唱",
+          "type": "一般",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器５６",
+          "name": "投掷",
+          "type": "恶",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６３",
+          "name": "查封",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器６６",
+          "name": "报复",
+          "type": "恶",
+          "category": "物理",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６８",
+          "name": "终极冲击",
+          "type": "一般",
+          "category": "物理",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器７０",
+          "name": "闪光",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７３",
+          "name": "电磁波",
+          "type": "电",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７７",
+          "name": "自我暗示",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器７９",
+          "name": "冰息",
+          "type": "冰",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器８５",
+          "name": "食梦",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "100",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器８７",
+          "name": "虚张声势",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器９０",
+          "name": "替身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 6,
+      "data": [
+        {
+          "machine": "招式学习器０６",
+          "name": "剧毒",
+          "type": "毒",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０７",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１０",
+          "name": "觉醒力量",
+          "type": "一般",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１２",
+          "name": "挑衅",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１３",
+          "name": "冰冻光束",
+          "type": "冰",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１４",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１５",
+          "name": "破坏光线",
+          "type": "一般",
+          "category": "特殊",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１６",
+          "name": "光墙",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器１７",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１８",
+          "name": "求雨",
+          "type": "水",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器２０",
+          "name": "神秘守护",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "25"
+        },
+        {
+          "machine": "招式学习器２１",
+          "name": "迁怒",
+          "type": "一般",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２４",
+          "name": "十万伏特",
+          "type": "电",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器２５",
+          "name": "打雷",
+          "type": "电",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２７",
+          "name": "报恩",
+          "type": "一般",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２９",
+          "name": "精神强念",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器３０",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器３２",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４１",
+          "name": "无理取闹",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４２",
+          "name": "硬撑",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器４４",
+          "name": "睡觉",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器４５",
+          "name": "迷人",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４８",
+          "name": "轮唱",
+          "type": "一般",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器５６",
+          "name": "投掷",
+          "type": "恶",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６３",
+          "name": "查封",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器６６",
+          "name": "以牙还牙",
+          "type": "恶",
+          "category": "物理",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６８",
+          "name": "终极冲击",
+          "type": "一般",
+          "category": "物理",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器７０",
+          "name": "闪光",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７３",
+          "name": "电磁波",
+          "type": "电",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７７",
+          "name": "自我暗示",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器７９",
+          "name": "冰息",
+          "type": "冰",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器８５",
+          "name": "食梦",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "100",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器８７",
+          "name": "虚张声势",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器８８",
+          "name": "梦话",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器９０",
+          "name": "替身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器９４",
+          "name": "秘密之力ΩRαS",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１００",
+          "name": "密语",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 7,
+      "data": [
+        {
+          "machine": "招式学习器０６",
+          "name": "剧毒",
+          "type": "毒",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０７",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１０",
+          "name": "觉醒力量",
+          "type": "一般",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１２",
+          "name": "挑衅",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１３",
+          "name": "冰冻光束",
+          "type": "冰",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１４",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１５",
+          "name": "破坏光线",
+          "type": "一般",
+          "category": "特殊",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１６",
+          "name": "光墙",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器１７",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１８",
+          "name": "求雨",
+          "type": "水",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器２０",
+          "name": "神秘守护",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "25"
+        },
+        {
+          "machine": "招式学习器２１",
+          "name": "迁怒",
+          "type": "一般",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２４",
+          "name": "十万伏特",
+          "type": "电",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器２５",
+          "name": "打雷",
+          "type": "电",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２７",
+          "name": "报恩",
+          "type": "一般",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２９",
+          "name": "精神强念",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器３０",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器３２",
+          "name": "影子分身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４１",
+          "name": "无理取闹",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４２",
+          "name": "硬撑",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器４４",
+          "name": "睡觉",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器４５",
+          "name": "迷人",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器４８",
+          "name": "轮唱",
+          "type": "一般",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器５６",
+          "name": "投掷",
+          "type": "恶",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６１",
+          "name": "磷火",
+          "type": "火",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器６３",
+          "name": "查封",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器６６",
+          "name": "以牙还牙",
+          "type": "恶",
+          "category": "物理",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６８",
+          "name": "终极冲击",
+          "type": "一般",
+          "category": "物理",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器７０",
+          "name": "极光幕",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７３",
+          "name": "电磁波",
+          "type": "电",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器７７",
+          "name": "自我暗示",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器７９",
+          "name": "冰息",
+          "type": "冰",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器８５",
+          "name": "食梦",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "100",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器８７",
+          "name": "虚张声势",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器８８",
+          "name": "梦话",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器９０",
+          "name": "替身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１００",
+          "name": "密语",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 8,
+      "data": [
+        {
+          "machine": "招式学习器０４",
+          "name": "冰冻拳",
+          "type": "冰",
+          "category": "物理",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器０８",
+          "name": "破坏光线",
+          "type": "一般",
+          "category": "特殊",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器０９",
+          "name": "终极冲击",
+          "type": "一般",
+          "category": "物理",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１４",
+          "name": "电磁波",
+          "type": "电",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１７",
+          "name": "光墙",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器１８",
+          "name": "反射壁",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１９",
+          "name": "神秘守护",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "25"
+        },
+        {
+          "machine": "招式学习器２１",
+          "name": "睡觉",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２４",
+          "name": "打鼾",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器２５",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２７",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器２９",
+          "name": "撒娇",
+          "type": "妖精",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器３１",
+          "name": "迷人",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器３３",
+          "name": "求雨",
+          "type": "水",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器３５",
+          "name": "冰雹",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器３８",
+          "name": "磷火",
+          "type": "火",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器３９",
+          "name": "硬撑",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器４４",
+          "name": "封印",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器４６",
+          "name": "气象球",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器４７",
+          "name": "假哭",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器５１",
+          "name": "冰锥",
+          "type": "冰",
+          "category": "物理",
+          "power": "25",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器５７",
+          "name": "以牙还牙",
+          "type": "恶",
+          "category": "物理",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器５９",
+          "name": "投掷",
+          "type": "恶",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６４",
+          "name": "雪崩",
+          "type": "冰",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器６７",
+          "name": "冰冻牙",
+          "type": "冰",
+          "category": "物理",
+          "power": "65",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器７６",
+          "name": "轮唱",
+          "type": "一般",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器７７",
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "65",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器８７",
+          "name": "吸取之吻",
+          "type": "妖精",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录０１",
+          "name": "泰山压顶",
+          "type": "一般",
+          "category": "物理",
+          "power": "85",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式记录０５",
+          "name": "冰冻光束",
+          "type": "冰",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录０６",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "machine": "招式记录０８",
+          "name": "十万伏特",
+          "type": "电",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式记录０９",
+          "name": "打雷",
+          "type": "电",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录１１",
+          "name": "精神强念",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录２０",
+          "name": "替身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录２３",
+          "name": "撒菱",
+          "type": "地面",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式记录２６",
+          "name": "挺住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录２７",
+          "name": "梦话",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录３２",
+          "name": "咬碎",
+          "type": "恶",
+          "category": "物理",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式记录３３",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式记录３７",
+          "name": "挑衅",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式记录３８",
+          "name": "戏法",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式记录８３",
+          "name": "交换场地",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 9,
+      "data": [
+        {
+          "machine": "招式学习器００１",
+          "name": "猛撞",
+          "type": "一般",
+          "category": "物理",
+          "power": "90",
+          "accuracy": "85",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器００２",
+          "name": "撒娇",
+          "type": "妖精",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器００３",
+          "name": "假哭",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器００６",
+          "name": "可怕面孔",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器００７",
+          "name": "守住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０１０",
+          "name": "冰冻牙",
+          "type": "冰",
+          "category": "物理",
+          "power": "65",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器０１１",
+          "name": "水之波动",
+          "type": "水",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０１７",
+          "name": "奇异之光",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０２０",
+          "name": "起草",
+          "type": "草",
+          "category": "物理",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０２２",
+          "name": "泼冷水",
+          "type": "水",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０２５",
+          "name": "硬撑",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０２９",
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "65",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０３４",
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器０３７",
+          "name": "吸取之吻",
+          "type": "妖精",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０４２",
+          "name": "黑夜魔影",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器０４３",
+          "name": "投掷",
+          "type": "恶",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０４６",
+          "name": "雪崩",
+          "type": "冰",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０４７",
+          "name": "挺住",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０５０",
+          "name": "求雨",
+          "type": "水",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器０５２",
+          "name": "雪景",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０６６",
+          "name": "泰山压顶",
+          "type": "一般",
+          "category": "物理",
+          "power": "85",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器０６９",
+          "name": "冰冻拳",
+          "type": "冰",
+          "category": "物理",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器０７０",
+          "name": "梦话",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器０７４",
+          "name": "反射壁",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０７５",
+          "name": "光墙",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器０８２",
+          "name": "电磁波",
+          "type": "电",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０８５",
+          "name": "睡觉",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器０８７",
+          "name": "挑衅",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０９０",
+          "name": "撒菱",
+          "type": "地面",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器０９２",
+          "name": "封印",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１０３",
+          "name": "替身",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１０７",
+          "name": "磷火",
+          "type": "火",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "85",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１０８",
+          "name": "咬碎",
+          "type": "恶",
+          "category": "物理",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１０９",
+          "name": "戏法",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１１４",
+          "name": "暗影球",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１２０",
+          "name": "精神强念",
+          "type": "超能力",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１２４",
+          "name": "冰旋",
+          "type": "冰",
+          "category": "物理",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１２６",
+          "name": "十万伏特",
+          "type": "电",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "machine": "招式学习器１３０",
+          "name": "帮助",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器１３５",
+          "name": "冰冻光束",
+          "type": "冰",
+          "category": "特殊",
+          "power": "90",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１４３",
+          "name": "暴风雪",
+          "type": "冰",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１５２",
+          "name": "终极冲击",
+          "type": "一般",
+          "category": "物理",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１６３",
+          "name": "破坏光线",
+          "type": "一般",
+          "category": "特殊",
+          "power": "150",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器１６６",
+          "name": "打雷",
+          "type": "电",
+          "category": "特殊",
+          "power": "110",
+          "accuracy": "70",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１７１",
+          "name": "太晶爆发",
+          "type": "一般",
+          "category": "特殊",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１７４",
+          "name": "黑雾",
+          "type": "冰",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器１７７",
+          "name": "怨恨",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１８７",
+          "name": "冰锥",
+          "type": "冰",
+          "category": "物理",
+          "power": "25",
+          "accuracy": "100",
+          "pp": "30"
+        },
+        {
+          "machine": "招式学习器１９３",
+          "name": "气象球",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器１９８",
+          "name": "灵骚",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "110",
+          "accuracy": "90",
+          "pp": "5"
+        },
+        {
+          "machine": "招式学习器２０２",
+          "name": "分担痛楚",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "machine": "招式学习器２０３",
+          "name": "自我暗示",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２１２",
+          "name": "三旋击",
+          "type": "冰",
+          "category": "物理",
+          "power": "20",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "machine": "招式学习器２２４",
+          "name": "咒术",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        }
+      ]
+    }
+  ],
+  "egg_moves": [
+    {
+      "form": "一般",
+      "generation": 4,
+      "data": [
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "胖丁"
+            },
+            {
+              "id": null,
+              "name": "胖可丁"
+            }
+          ],
+          "name": "定身法",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "80",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "帕奇利兹"
+            }
+          ],
+          "name": "忍耐",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "毒蔷薇"
+            }
+          ],
+          "name": "撒菱*",
+          "type": "地面",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "074",
+              "name": "小拳石"
+            },
+            {
+              "id": "075",
+              "name": "隆隆石"
+            },
+            {
+              "id": "076",
+              "name": "隆隆岩"
+            },
+            {
+              "id": "183",
+              "name": "玛力露"
+            },
+            {
+              "id": "184",
+              "name": "玛力露丽"
+            }
+          ],
+          "name": "滚动",
+          "type": "岩石",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "185",
+              "name": "树才怪"
+            },
+            {
+              "id": "299",
+              "name": "朝北鼻"
+            },
+            {
+              "id": "476",
+              "name": "大朝北鼻"
+            }
+          ],
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "飘浮泡泡"
+            },
+            {
+              "id": null,
+              "name": "罗丝雷朵"
+            }
+          ],
+          "name": "气象球HGSS",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 5,
+      "data": [
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "040",
+              "name": "胖可丁"
+            },
+            {
+              "id": "562",
+              "name": "哭哭面具"
+            },
+            {
+              "id": null,
+              "name": "迭失棺"
+            }
+          ],
+          "name": "定身法",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "帕奇利兹"
+            }
+          ],
+          "name": "忍耐",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "315",
+              "name": "毒蔷薇"
+            },
+            {
+              "id": "557",
+              "name": "石居蟹"
+            },
+            {
+              "id": "597",
+              "name": "种子铁球"
+            }
+          ],
+          "name": "撒菱*",
+          "type": "地面",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "074",
+              "name": "小拳石"
+            },
+            {
+              "id": "075",
+              "name": "隆隆石"
+            },
+            {
+              "id": "183",
+              "name": "玛力露"
+            },
+            {
+              "id": "184",
+              "name": "玛力露丽"
+            },
+            {
+              "id": "597",
+              "name": "种子铁球"
+            },
+            {
+              "id": null,
+              "name": "坚果哑铃"
+            }
+          ],
+          "name": "滚动",
+          "type": "岩石",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "351",
+              "name": "飘浮泡泡"
+            },
+            {
+              "id": "407",
+              "name": "罗丝雷朵"
+            },
+            {
+              "id": "584",
+              "name": "双倍多多冰"
+            }
+          ],
+          "name": "气象球",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "303",
+              "name": "大嘴娃"
+            },
+            {
+              "id": "311",
+              "name": "正电拍拍"
+            },
+            {
+              "id": "312",
+              "name": "负电拍拍"
+            }
+          ],
+          "name": "假哭",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "185",
+              "name": "树才怪"
+            },
+            {
+              "id": "299",
+              "name": "朝北鼻"
+            },
+            {
+              "id": "476",
+              "name": "大朝北鼻"
+            }
+          ],
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "parents": [
+            {
+              "id": "582",
+              "name": "迷你冰"
+            },
+            {
+              "id": "583",
+              "name": "多多冰"
+            },
+            {
+              "id": "584",
+              "name": "双倍多多冰"
+            }
+          ],
+          "name": "雪崩",
+          "type": "冰",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "哭哭面具"
+            },
+            {
+              "id": null,
+              "name": "迭失棺"
+            }
+          ],
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 6,
+      "data": [
+        {
+          "parents": [
+            {
+              "id": "582",
+              "name": "迷你冰"
+            },
+            {
+              "id": "583",
+              "name": "多多冰"
+            },
+            {
+              "id": "584",
+              "name": "双倍多多冰"
+            }
+          ],
+          "name": "雪崩",
+          "type": "冰",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "帕奇利兹"
+            }
+          ],
+          "name": "忍耐",
+          "type": "一般",
+          "category": "物理",
+          "power": "变化",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "185",
+              "name": "树才怪"
+            },
+            {
+              "id": "299",
+              "name": "朝北鼻"
+            },
+            {
+              "id": "476",
+              "name": "大朝北鼻"
+            }
+          ],
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "040",
+              "name": "胖可丁"
+            },
+            {
+              "id": "562",
+              "name": "哭哭面具"
+            },
+            {
+              "id": null,
+              "name": "迭失棺"
+            }
+          ],
+          "name": "定身法",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "哭哭面具"
+            },
+            {
+              "id": null,
+              "name": "迭失棺"
+            }
+          ],
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "65",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "303",
+              "name": "大嘴娃"
+            },
+            {
+              "id": "311",
+              "name": "正电拍拍"
+            },
+            {
+              "id": null,
+              "name": "宝可梦 Ｘ／Ｙ"
+            },
+            {
+              "id": null,
+              "name": "宝可梦 欧米伽红宝石／阿尔法蓝宝石"
+            },
+            {
+              "id": null,
+              "name": "绵绵泡芙"
+            },
+            {
+              "id": null,
+              "name": "胖甜妮"
+            }
+          ],
+          "name": "假哭",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "074",
+              "name": "小拳石"
+            },
+            {
+              "id": "075",
+              "name": "隆隆石"
+            },
+            {
+              "id": "183",
+              "name": "玛力露"
+            },
+            {
+              "id": "184",
+              "name": "玛力露丽"
+            },
+            {
+              "id": "597",
+              "name": "种子铁球"
+            },
+            {
+              "id": null,
+              "name": "坚果哑铃"
+            }
+          ],
+          "name": "滚动",
+          "type": "岩石",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "钥圈儿"
+            }
+          ],
+          "name": "撒菱",
+          "type": "地面",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "负电拍拍"
+            },
+            {
+              "id": null,
+              "name": "宝可梦 欧米伽红宝石／阿尔法蓝宝石"
+            },
+            {
+              "id": null,
+              "name": "木棉球"
+            }
+          ],
+          "name": "掉包*",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "351",
+              "name": "飘浮泡泡"
+            },
+            {
+              "id": "407",
+              "name": "罗丝雷朵"
+            },
+            {
+              "id": "584",
+              "name": "双倍多多冰"
+            }
+          ],
+          "name": "气象球",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 7,
+      "data": [
+        {
+          "parents": [
+            {
+              "id": "582",
+              "name": "迷你冰"
+            },
+            {
+              "id": "583",
+              "name": "多多冰"
+            },
+            {
+              "id": "584",
+              "name": "双倍多多冰"
+            }
+          ],
+          "name": "雪崩",
+          "type": "冰",
+          "category": "物理",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "帕奇利兹"
+            }
+          ],
+          "name": "忍耐",
+          "type": "一般",
+          "category": "物理",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "185",
+              "name": "树才怪"
+            },
+            {
+              "id": "299",
+              "name": "朝北鼻"
+            },
+            {
+              "id": "476",
+              "name": "大朝北鼻"
+            }
+          ],
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "040",
+              "name": "胖可丁"
+            },
+            {
+              "id": "562",
+              "name": "哭哭面具"
+            },
+            {
+              "id": null,
+              "name": "迭失棺"
+            }
+          ],
+          "name": "定身法",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "303",
+              "name": "大嘴娃"
+            },
+            {
+              "id": "312",
+              "name": "负电拍拍"
+            },
+            {
+              "id": "684",
+              "name": "绵绵泡芙"
+            },
+            {
+              "id": null,
+              "name": "胖甜妮"
+            }
+          ],
+          "name": "假哭",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "哭哭面具"
+            },
+            {
+              "id": null,
+              "name": "迭失棺"
+            }
+          ],
+          "name": "祸不单行",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "65",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "074",
+              "name": "小拳石"
+            },
+            {
+              "id": "074A",
+              "name": "小拳石"
+            },
+            {
+              "id": "075",
+              "name": "隆隆石"
+            },
+            {
+              "id": "075A",
+              "name": "隆隆石"
+            },
+            {
+              "id": "183",
+              "name": "玛力露"
+            },
+            {
+              "id": "184",
+              "name": "玛力露丽"
+            },
+            {
+              "id": "597",
+              "name": "种子铁球"
+            },
+            {
+              "id": "598",
+              "name": "坚果哑铃"
+            },
+            {
+              "id": null,
+              "name": "托戈德玛尔"
+            }
+          ],
+          "name": "滚动",
+          "type": "岩石",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "钥圈儿"
+            }
+          ],
+          "name": "撒菱",
+          "type": "地面",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "负电拍拍"
+            }
+          ],
+          "name": "掉包",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "351",
+              "name": "飘浮泡泡"
+            },
+            {
+              "id": "407",
+              "name": "罗丝雷朵"
+            },
+            {
+              "id": "584",
+              "name": "双倍多多冰"
+            }
+          ],
+          "name": "气象球",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 8,
+      "data": [
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "树才怪"
+            },
+            {
+              "id": null,
+              "name": "巨石丁"
+            }
+          ],
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "parents": [
+            {
+              "id": "039",
+              "name": "胖丁"
+            },
+            {
+              "id": "040",
+              "name": "胖可丁"
+            },
+            {
+              "id": "562",
+              "name": "哭哭面具"
+            },
+            {
+              "id": "562G",
+              "name": "哭哭面具"
+            },
+            {
+              "id": "563",
+              "name": "迭失棺"
+            },
+            {
+              "id": "867",
+              "name": "迭失板"
+            }
+          ],
+          "name": "定身法",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "萌虻"
+            },
+            {
+              "id": null,
+              "name": "蝶结萌虻"
+            }
+          ],
+          "name": "掉包",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "183",
+              "name": "玛力露"
+            },
+            {
+              "id": "184",
+              "name": "玛力露丽"
+            },
+            {
+              "id": "878",
+              "name": "铜象"
+            },
+            {
+              "id": null,
+              "name": "大王铜象"
+            }
+          ],
+          "name": "滚动",
+          "type": "岩石",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": null,
+              "name": "双倍多多冰"
+            }
+          ],
+          "name": "冰柱坠击",
+          "type": "冰",
+          "category": "物理",
+          "power": "85",
+          "accuracy": "90",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 9,
+      "data": [
+        {
+          "parents": [
+            {
+              "id": "0039",
+              "name": "胖丁"
+            },
+            {
+              "id": "0040",
+              "name": "胖可丁"
+            }
+          ],
+          "name": "定身法",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "0074",
+              "name": "小拳石"
+            },
+            {
+              "id": "0074A",
+              "name": "小拳石"
+            },
+            {
+              "id": "0075",
+              "name": "隆隆石"
+            },
+            {
+              "id": "0075A",
+              "name": "隆隆石"
+            },
+            {
+              "id": "0183",
+              "name": "玛力露"
+            },
+            {
+              "id": "0184",
+              "name": "玛力露丽"
+            },
+            {
+              "id": "0878",
+              "name": "铜象"
+            },
+            {
+              "id": "0879",
+              "name": "大王铜象"
+            }
+          ],
+          "name": "滚动",
+          "type": "岩石",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "parents": [
+            {
+              "id": "185",
+              "name": "树才怪"
+            },
+            {
+              "id": "299",
+              "name": "朝北鼻"
+            },
+            {
+              "id": "476",
+              "name": "大朝北鼻"
+            },
+            {
+              "id": "874",
+              "name": "巨石丁"
+            },
+            {
+              "id": "934",
+              "name": "盐石巨灵"
+            }
+          ],
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "parents": [
+            {
+              "id": "0311",
+              "name": "正电拍拍"
+            },
+            {
+              "id": "0312",
+              "name": "负电拍拍"
+            },
+            {
+              "id": "0742",
+              "name": "萌虻"
+            },
+            {
+              "id": "0743",
+              "name": "蝶结萌虻"
+            }
+          ],
+          "name": "掉包",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "parents": [
+            {
+              "id": "0713",
+              "name": "冰岩怪"
+            },
+            {
+              "id": "0996",
+              "name": "凉脊龙"
+            },
+            {
+              "id": "0997",
+              "name": "冻脊龙"
+            },
+            {
+              "id": "0998",
+              "name": "戟脊龙"
+            }
+          ],
+          "name": "冰柱坠击",
+          "type": "冰",
+          "category": "物理",
+          "power": "85",
+          "accuracy": "90",
+          "pp": "10"
+        }
+      ]
+    }
+  ],
+  "home_images": [
+    {
+      "name": "雪妖女",
+      "image": "0478-雪妖女.png",
+      "shiny": "0478-雪妖女-shiny.png"
+    }
+  ],
+  "tutor_moves": [
+    {
+      "form": "一般",
+      "generation": 4,
+      "data": [
+        {
+          "name": "冰冻拳",
+          "type": "冰",
+          "category": "物理",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "打鼾",
+          "type": "一般",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "怨恨",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "掷泥",
+          "type": "地面",
+          "category": "特殊",
+          "power": "20",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "name": "滚动",
+          "type": "岩石",
+          "category": "物理",
+          "power": "30",
+          "accuracy": "90",
+          "pp": "20"
+        },
+        {
+          "name": "戏法",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "信号光束",
+          "type": "虫",
+          "category": "特殊",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "突袭",
+          "type": "恶",
+          "category": "物理",
+          "power": "80",
+          "accuracy": "100",
+          "pp": "5"
+        },
+        {
+          "name": "奇异之风",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "5"
+        },
+        {
+          "name": "头锤",
+          "type": "一般",
+          "category": "物理",
+          "power": "70",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "分担痛楚",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 5,
+      "data": [
+        {
+          "name": "信号光束",
+          "type": "虫",
+          "category": "特殊",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "name": "分担痛楚",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "name": "冰冻拳",
+          "type": "冰",
+          "category": "物理",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "打鼾",
+          "type": "一般",
+          "category": "特殊",
+          "power": "40",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "化为己用",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "name": "梦话",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "name": "怨念",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "戏法",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 6,
+      "data": [
+        {
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "name": "冰冻拳",
+          "type": "冰",
+          "category": "物理",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "name": "分担痛楚",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "name": "电击波",
+          "type": "电",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "name": "信号光束",
+          "type": "虫",
+          "category": "特殊",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "化为己用",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "name": "打鼾",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "怨恨",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "戏法",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "水之波动",
+          "type": "水",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "20"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 7,
+      "data": [
+        {
+          "name": "交换场地",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "name": "挡路",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "5"
+        },
+        {
+          "name": "冰冻拳",
+          "type": "冰",
+          "category": "物理",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "冰冻之风",
+          "type": "冰",
+          "category": "特殊",
+          "power": "55",
+          "accuracy": "95",
+          "pp": "15"
+        },
+        {
+          "name": "磨砺",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "30"
+        },
+        {
+          "name": "分担痛楚",
+          "type": "一般",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "name": "电击波",
+          "type": "电",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "—",
+          "pp": "20"
+        },
+        {
+          "name": "信号光束",
+          "type": "虫",
+          "category": "特殊",
+          "power": "75",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "化为己用",
+          "type": "恶",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "10"
+        },
+        {
+          "name": "打鼾",
+          "type": "一般",
+          "category": "特殊",
+          "power": "50",
+          "accuracy": "100",
+          "pp": "15"
+        },
+        {
+          "name": "怨恨",
+          "type": "幽灵",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "意念移物",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "—",
+          "pp": "15"
+        },
+        {
+          "name": "戏法",
+          "type": "超能力",
+          "category": "变化",
+          "power": "—",
+          "accuracy": "100",
+          "pp": "10"
+        },
+        {
+          "name": "水之波动",
+          "type": "水",
+          "category": "特殊",
+          "power": "60",
+          "accuracy": "100",
+          "pp": "20"
+        }
+      ]
+    },
+    {
+      "form": "一般",
+      "generation": 8,
+      "data": [
+        {
+          "name": "三旋击",
+          "type": "冰",
+          "category": "物理",
+          "power": "20",
+          "accuracy": "90",
+          "pp": "10"
+        },
+        {
+          "name": "灵骚",
+          "type": "幽灵",
+          "category": "物理",
+          "power": "110",
+          "accuracy": "90",
+          "pp": "5"
+        }
+      ]
+    }
+  ]
+}
