@@ -55,6 +55,12 @@ export default function apiPlugin() {
             return sendJSON(d || { error: 'Not found' }, d ? 200 : 404);
           }
 
+          // GET /api/pokemon/list
+          if (pathname === '/api/pokemon/list') {
+            const list = getPokemonList();
+            return sendJSON(list || []);
+          }
+
           // GET /api/pokemon/<id>
           const pokeMatch = pathname.match(/^\/api\/pokemon\/(\d{1,4})$/);
           if (pokeMatch) {
@@ -64,6 +70,45 @@ export default function apiPlugin() {
             if (found) {
               const d = readJSON(path.join(DATA_DIR, 'pokemon', found.filename));
               return sendJSON(d || { error: 'Not found' }, d ? 200 : 404);
+            }
+            return sendJSON({ error: 'Not found' }, 404);
+          }
+
+          // GET /api/moves/list
+          if (pathname === '/api/moves/list') {
+            const d = readJSON(path.join(DATA_DIR, 'move_list.json'));
+            return sendJSON(d || { error: 'Not found' }, d ? 200 : 404);
+          }
+
+          // GET /api/moves/<name>  (name is Chinese, URL-encoded)
+          const moveMatch = pathname.match(/^\/api\/moves\/(.+)$/);
+          if (moveMatch) {
+            const moveName = decodeURIComponent(moveMatch[1]);
+            // Try exact filename match first
+            const exactFile = path.join(DATA_DIR, 'moves', `${moveName}.json`);
+            if (fs.existsSync(exactFile)) {
+              return sendJSON(readJSON(exactFile) || { error: 'Not found' }, 200);
+            }
+            // Fallback: search move_list.json for this name, then find ANY file with matching id
+            const allMoves = readJSON(path.join(DATA_DIR, 'move_list.json')) || [];
+            const moveEntry = allMoves.find(m => m.name_zh === moveName);
+            if (moveEntry) {
+              // Search in moves directory for a file whose name matches the entry id or name
+              const movesDir = path.join(DATA_DIR, 'moves');
+              if (fs.existsSync(movesDir)) {
+                const files = fs.readdirSync(movesDir);
+                // Try name_zh from the entry (same as moveName, but just in case)
+                for (const f of files) {
+                  const basename = path.basename(f, '.json');
+                  if (basename === moveEntry.name_zh) {
+                    return sendJSON(readJSON(path.join(movesDir, f)) || { error: 'Not found' }, 200);
+                  }
+                }
+                // Fuzzy: if moveEntry.id matches a file that starts with that id
+                // (some files might have id prefix like "0001-拍击.json" — but moves dir doesn't)
+                // Just return the move_list entry as a fallback
+                return sendJSON({ ...moveEntry, _note: 'Only basic info available, no detail file' }, 200);
+              }
             }
             return sendJSON({ error: 'Not found' }, 404);
           }

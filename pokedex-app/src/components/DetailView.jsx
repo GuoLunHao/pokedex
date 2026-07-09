@@ -12,7 +12,7 @@ const TABS = [
   { id: 'entries', label: '图鉴介绍' },
 ];
 
-export default function DetailView({ pokemon, loading, currentId, selectedEntry, mergedDex, simplePokedex, formIndex, onFormIndexChange, onSelect, onBack, isMobile }) {
+export default function DetailView({ pokemon, loading, currentId, selectedEntry, mergedDex, simplePokedex, formIndex, onFormIndexChange, onSelect, onBack, isMobile, onMoveClick }) {
   const [activeTab, setActiveTab] = useState('info');
 
   if (!currentId || !selectedEntry) {
@@ -125,7 +125,7 @@ export default function DetailView({ pokemon, loading, currentId, selectedEntry,
         <div className="tab-panel" style={{ display: activeTab === 'info' ? '' : 'none' }}><InfoTab pokemon={pokemon} form={form} /></div>
         <div className="tab-panel" style={{ display: activeTab === 'stats' ? '' : 'none' }}><StatsTab stats={stats} total={totalStat} /></div>
         <div className="tab-panel" style={{ display: activeTab === 'types' ? '' : 'none' }}><TypesTab pokemon={pokemon} formIndex={formIndex} /></div>
-        <div className="tab-panel" style={{ display: activeTab === 'moves' ? '' : 'none' }}><MovesTab key={currentId} pokemon={pokemon} /></div>
+        <div className="tab-panel" style={{ display: activeTab === 'moves' ? '' : 'none' }}><MovesTab key={currentId} pokemon={pokemon} onMoveClick={onMoveClick} /></div>
         <div className="tab-panel" style={{ display: activeTab === 'evo' ? '' : 'none' }}><EvoTab pokemon={pokemon} mergedDex={mergedDex} onSelect={onSelect} formIndex={formIndex} /></div>
         <div className="tab-panel" style={{ display: activeTab === 'entries' ? '' : 'none' }}><EntriesTab pokemon={pokemon} /></div>
       </div>
@@ -536,7 +536,7 @@ const TABLE_COLS = {
 };
 
 /* ─── Sub-component: a single sortable table ─── */
-function MoveTable({ columns, rows, sortKey, sortDir, onSort }) {
+function MoveTable({ columns, rows, sortKey, sortDir, onSort, onMoveClick }) {
   if (rows.length === 0) return null;
   const arrow = (key) => {
     if (key !== sortKey) return <span className="msa"> ↕</span>;
@@ -560,7 +560,7 @@ function MoveTable({ columns, rows, sortKey, sortDir, onSort }) {
             <tr key={i}>
               {columns.map(col => (
                 <td key={col.key}>
-                  {renderCell(col.key, m)}
+                  {renderCell(col.key, m, onMoveClick)}
                 </td>
               ))}
             </tr>
@@ -571,7 +571,7 @@ function MoveTable({ columns, rows, sortKey, sortDir, onSort }) {
   );
 }
 
-function renderCell(key, m) {
+function renderCell(key, m, onMoveClick) {
   switch (key) {
     case 'generation':
       return <span className="mg">{GEN_NAMES[m.generation] || m.generation}</span>;
@@ -594,6 +594,17 @@ function renderCell(key, m) {
     case 'machine':
       return <span className="mm">{m.machine || '—'}</span>;
     case 'name':
+      if (onMoveClick) {
+        return (
+          <span
+            className="mn move-link"
+            onClick={(e) => { e.stopPropagation(); onMoveClick(m.name); }}
+            title="查看招式详情"
+          >
+            {m.name}
+          </span>
+        );
+      }
       return <span className="mn">{m.name}</span>;
     default:
       return <span>{m[key] ?? '—'}</span>;
@@ -601,7 +612,7 @@ function renderCell(key, m) {
 }
 
 /* ─── MovesTab — 可学招式 ─── */
-function MovesTab({ pokemon }) {
+function MovesTab({ pokemon, onMoveClick }) {
   const [sortConfig, setSortConfig] = useState({});
 
   // Flatten grouped { generation, data: [...] } into flat rows with generation annotated
@@ -686,6 +697,7 @@ function MovesTab({ pokemon }) {
               sortKey={(sortConfig[sec.cat] || {}).key}
               sortDir={(sortConfig[sec.cat] || {}).dir}
               onSort={(key) => handleSort(sec.cat, key)}
+              onMoveClick={onMoveClick}
             />
           </section>
         )

@@ -77,3 +77,22 @@ export async function getPokemonList() {
   }
   return fetchJSON('/api/pokemon/list');
 }
+
+/* ─── Moves list API ─── */
+
+/** Fetch the full move list (basic info for all moves) */
+export function getMoveList() {
+  if (isProd) {
+    return fetchJSON(`${BASE}data/move_list.json`);
+  }
+  return fetchJSON('/api/moves/list');
+}
+
+/** Fetch a single move's details (including learnsets) by Chinese name */
+export async function getMoveByName(zhName) {
+  const encoded = encodeURIComponent(zhName);
+  if (isProd) {
+    return fetchJSON(`${BASE}data/moves/${encoded}.json`);
+  }
+  return fetchJSON(`/api/moves/${encoded}`);
+}

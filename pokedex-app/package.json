@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build:data": "node scripts/prepare-data.js",
-    "build": "npm run build:data && vite build",
+    "build": "pnpm run build:data && vite build",
     "build-only": "vite build",
     "lint": "oxlint",
     "preview": "vite preview"
